@@ -1,0 +1,1001 @@
+skills,years_experience,education,has_certifications,job_role
+"html, css, angular, typescript, ui frameworks, browser compatibility, security",1.1,High School,False,Frontend Developer
+"html, browser compatibility, jest, redux, responsive design, data mining, data structures, product strategy",0.4,PhD,False,Frontend Developer
+"caching, c#, python, authentication, php, presentation skills, shell scripting, lan",8.8,High School,True,Backend Developer
+"jenkins, infrastructure as code, aws, microservices, data mining",5.0,PhD,True,DevOps Engineer
+"tensorflow, big data, a/b testing, r, hypothesis testing, pandas, cryptography, roadmapping, wan",4.3,Master,False,UX Designer
+"hypothesis testing, pandas, machine learning, tensorflow, sql, r, python, sql, power bi, dashboards",3.8,PhD,False,Data Scientist
+"hypothesis testing, data visualization, a/b testing, python, numpy, scikit-learn, security, troubleshooting",3.0,Master,False,Data Scientist
+"penetration testing, vulnerability assessment, risk management, cryptography, siem, threat intelligence, r, css, machine learning",5.3,Bachelor,True,Cybersecurity Analyst
+"git, agile, debugging, object-oriented programming, switching, penetration testing",6.8,High School,True,Software Engineer
+"webpack, jest, sass, javascript, typescript, docker, api development, lan, dns",8.1,Bachelor,True,Frontend Developer
+"cisco, network security, vpn, java, analytics, presentation skills",8.8,Bachelor,True,Network Engineer
+"microservices, api development, git, object-oriented programming, java, javascript, statistics, lan",3.0,Bachelor,True,Software Engineer
+"big data, scikit-learn, sql, sql, analytics",7.9,PhD,False,Data Scientist
+"user stories, competitive analysis, analytics, project management, communication, roadmapping, agile, networking, siem, statistics, python",4.3,High School,True,Product Manager
+"networking, linux, python, azure, presentation skills, wireframing, security architecture, user flows",0.2,PhD,True,DevOps Engineer
+"pandas, big data, r, hypothesis testing, scikit-learn, deep learning, monitoring",9.8,PhD,False,Data Scientist
+"competitive analysis, product strategy, roadmapping, project management, adobe xd, algorithms",0.6,PhD,False,Product Manager
+"lan, dhcp, network security, api development, roadmapping, jenkins, security architecture",13.6,PhD,True,Product Manager
+"browser compatibility, html, sass, redux, css, angular, data mining, project management, visual design",6.0,PhD,True,Frontend Developer
+"adobe xd, user flows, sketch, prototyping, visual design, vulnerability assessment",0.1,PhD,False,UX Designer
+"cryptography, security auditing, security, firewall, siem, security architecture, security compliance, dashboards, statistics",0.1,Master,True,Cybersecurity Analyst
+"java, cloud computing, databases, data mining",1.8,Bachelor,True,Software Engineer
+"microservices, c#, ruby, databases, security, firewalls, reporting",10.8,High School,True,Backend Developer
+"api development, data structures, python, project management, kubernetes, roadmapping",3.2,Master,True,Software Engineer
+"javascript, c++, python, api development, testing, sql",2.6,High School,True,Software Engineer
+"java, testing, debugging, responsive design",11.5,High School,False,Software Engineer
+"python, monitoring, docker, ci/cd, firewall, network security, databases, agile",9.4,PhD,True,DevOps Engineer
+"sketch, user flows, wireframing, accessibility, design thinking, adobe xd, agile, java, data modeling, security auditing",1.1,High School,True,UX Designer
+"linux, kubernetes, aws, monitoring, python, sql, graphql",6.3,PhD,True,DevOps Engineer
+"deep learning, a/b testing, big data, scikit-learn, typescript, project management, product strategy",13.7,High School,False,Data Scientist
+"penetration testing, ethical hacking, security compliance, databases, security",1.1,High School,True,Cybersecurity Analyst
+"user research, information architecture, figma, accessibility, design thinking, ci/cd, lan",5.2,High School,True,Product Manager
+"pytorch, big data, tensorflow, python, r, data structures, browser compatibility, security architecture, shell scripting",3.2,Bachelor,True,Data Scientist
+"siem, risk management, security, vulnerability assessment, data modeling",1.2,Bachelor,False,Cybersecurity Analyst
+"sql, scikit-learn, tensorflow, numpy, r, pytorch, object-oriented programming",5.8,Bachelor,True,Data Scientist
+"network security, firewalls, cisco, subnetting, data visualization, python",2.1,High School,False,Network Engineer
+"project management, agile, communication, scrum, jira, nosql, accessibility, javascript",6.3,Bachelor,False,Product Manager
+"databases, cloud computing, c++, git, object-oriented programming, algorithms, security architecture, product strategy, tcpip, docker",7.4,Master,False,Software Engineer
+"big data, python, statistics, numpy, hypothesis testing, scikit-learn, webpack, java, usability testing",14.0,Master,False,Data Scientist
+"accessibility, visual design, adobe xd, user flows, interaction design, user research, prototyping, deep learning, r, pandas",10.8,PhD,True,UX Designer
+"network monitoring, tcpip, subnetting, switching, dashboards, interaction design, scrum, accessibility",8.1,Master,True,Network Engineer
+"security, sql, c#, authentication, rest apis, java, python, data cleaning, machine learning, python",3.0,High School,True,Backend Developer
+"routing, networking, subnetting, network monitoring, wan, troubleshooting, dns, typescript",0.5,Master,False,Network Engineer
+"figma, wireframing, visual design, infrastructure as code, dashboards, caching",2.1,PhD,True,UX Designer
+"css, ui frameworks, browser compatibility, responsive design, networking, market research",3.5,High School,False,Frontend Developer
+"vulnerability assessment, incident response, security architecture, threat intelligence, penetration testing, sql, security",2.6,Master,True,Cybersecurity Analyst
+"azure, terraform, jenkins, python, angular",2.6,High School,True,DevOps Engineer
+"jenkins, docker, shell scripting, aws, infrastructure as code, golang",4.9,PhD,True,DevOps Engineer
+"rest apis, graphql, microservices, docker",6.5,PhD,False,Backend Developer
+"roadmapping, a/b testing, agile, leadership, communication, competitive analysis, scrum, databases, figma, terraform",6.8,High School,True,Product Manager
+"project management, roadmapping, a/b testing, product strategy, leadership, competitive analysis, ui frameworks",0.5,Bachelor,True,Product Manager
+"user research, accessibility, usability testing, user flows, prototyping, information architecture, data modeling, databases, javascript",2.8,Master,False,UX Designer
+"debugging, api development, java, typescript, network monitoring",9.1,High School,True,Software Engineer
+"wan, switching, vpn, user stories",1.6,PhD,False,Network Engineer
+"browser compatibility, angular, typescript, vue, sass, css, c++, python, python, object-oriented programming",9.4,High School,True,Frontend Developer
+"lan, dhcp, vpn, ui frameworks",4.4,Bachelor,True,Network Engineer
+"dhcp, dns, switching, lan, network monitoring, vpn, wan, rest apis, firewall, tableau",0.4,Bachelor,False,Network Engineer
+"presentation skills, project management, competitive analysis, databases, visual design",5.0,Master,True,Product Manager
+"data cleaning, sql, power bi, figma, graphql, java, authentication",6.8,Master,False,Data Analyst
+"stakeholder management, analytics, roadmapping, jira, market research, scrum, user stories, interaction design, cryptography, statistics, dns",0.5,Bachelor,False,Product Manager
+"dashboards, forecasting, data modeling, tableau, excel, nosql, dns",1.7,High School,False,Data Analyst
+"sql, rest apis, security, php, java, authentication, c#, pytorch, project management, risk management, dns",12.3,High School,True,Backend Developer
+"security, siem, security architecture, ethical hacking, firewall, risk management, java, c#, git",3.0,PhD,True,Network Engineer
+"communication, agile, scrum, stakeholder management, roadmapping, competitive analysis, market research, aws",0.6,Bachelor,True,Product Manager
+"python, security, linux, shell scripting, terraform, ci/cd, graphql, excel",1.4,Bachelor,False,DevOps Engineer
+"risk management, ethical hacking, security architecture, penetration testing, incident response, firewall, security, analytics, networking",9.2,Bachelor,False,Cybersecurity Analyst
+"networking, ansible, infrastructure as code, docker, azure, linux, scrum",4.8,Master,True,DevOps Engineer
+"authentication, nosql, graphql, sql, microservices, databases, golang, algorithms, communication",4.8,Master,False,Backend Developer
+"scikit-learn, r, machine learning, sql, data visualization, hypothesis testing, project management, penetration testing, responsive design, vpn",11.8,Bachelor,True,DevOps Engineer
+"agile, user stories, communication, market research, leadership, risk management",9.6,Master,False,Product Manager
+"tensorflow, r, machine learning, project management, network security, siem",1.8,PhD,False,Data Scientist
+"dhcp, firewalls, dns, network security, lan, subnetting, security compliance, user research, accessibility, user stories",0.7,High School,False,Network Engineer
+"graphql, security, nosql, ruby, authentication, azure, information architecture, angular",1.7,High School,False,Backend Developer
+"terraform, docker, linux, networking, risk management, react, deep learning, cisco",5.5,Bachelor,True,DevOps Engineer
+"git, python, microservices, databases, api development, testing, data structures, c#",8.3,Bachelor,True,Software Engineer
+"algorithms, debugging, data structures, microservices, terraform, docker, data modeling",9.0,PhD,False,Software Engineer
+"cisco, subnetting, network monitoring, vpn, lan, node.js, redux",4.0,Bachelor,True,Network Engineer
+"hypothesis testing, sql, big data, aws, competitive analysis, networking",2.6,PhD,True,Data Scientist
+"reporting, statistics, sql, data visualization, r, ruby, sql",14.0,High School,True,Data Analyst
+"api development, microservices, algorithms, git, agile, python, analytics",8.4,High School,False,Software Engineer
+"tcpip, subnetting, cisco, lan, dhcp, troubleshooting, vpn, hypothesis testing, typescript, data modeling, information architecture",9.8,PhD,True,Network Engineer
+"power bi, data visualization, forecasting, reporting, javascript",1.4,PhD,True,Data Analyst
+"figma, prototyping, sketch, incident response, roadmapping, jenkins, presentation skills",4.5,High School,False,UX Designer
+"prototyping, accessibility, usability testing, visual design, user research, information architecture, browser compatibility, kubernetes, authentication, sql",6.6,Master,False,UX Designer
+"redux, sass, vue, javascript, css, network monitoring",14.7,Bachelor,False,Frontend Developer
+"siem, risk management, ethical hacking, security compliance, vulnerability assessment, interaction design, scrum, business intelligence, react",8.3,Master,True,Cybersecurity Analyst
+"network monitoring, tcpip, dhcp, microservices, php, r",7.2,Bachelor,True,Network Engineer
+"caching, authentication, java, algorithms, figma, firewall, roadmapping",0.8,PhD,False,Backend Developer
+"user research, sketch, information architecture, prototyping, cisco, leadership, typescript",10.8,High School,True,UX Designer
+"debugging, python, api development, algorithms, c++, java, object-oriented programming, information architecture, visual design, firewalls, user research",4.4,PhD,True,Software Engineer
+"business intelligence, power bi, python, tableau, data visualization, sql, testing, security",3.2,Master,True,Data Analyst
+"statistics, numpy, a/b testing, pandas, security, data cleaning, caching",9.7,High School,False,Data Scientist
+"ruby, java, sql, rest apis, microservices, php, lan, big data, accessibility, react",2.1,PhD,True,Backend Developer
+"big data, sql, numpy, machine learning, hypothesis testing, css",9.7,High School,False,Frontend Developer
+"ethical hacking, risk management, incident response, firewall, html, scikit-learn, python",1.4,Bachelor,False,Software Engineer
+"node.js, databases, php, security, adobe xd, forecasting, linux, ui frameworks",0.7,Master,True,Backend Developer
+"sketch, figma, interaction design, visual design, css, usability testing, redux, authentication, c++",10.3,Master,True,UX Designer
+"routing, tcpip, subnetting, firewalls, data cleaning, accessibility, data visualization, angular",3.9,Bachelor,False,Network Engineer
+"microservices, caching, java, databases, php, pandas, react",7.2,PhD,True,Backend Developer
+"angular, sass, javascript, react, responsive design, golang, docker",1.1,High School,True,Frontend Developer
+"stakeholder management, competitive analysis, a/b testing, market research, jira, user stories, c#, subnetting, linux, power bi",8.2,High School,True,Product Manager
+"python, dashboards, data modeling, sql, hypothesis testing, git, node.js",6.4,Bachelor,True,Data Analyst
+"linux, ci/cd, monitoring, infrastructure as code, ansible, python, lan, user flows",3.8,PhD,False,DevOps Engineer
+"penetration testing, security auditing, security, ethical hacking, cryptography, vulnerability assessment, sass, product strategy, network security, presentation skills",0.8,Bachelor,False,Cybersecurity Analyst
+"monitoring, python, terraform, jenkins, security, visual design, microservices, threat intelligence, javascript",2.5,PhD,False,DevOps Engineer
+"security, azure, linux, incident response, security",10.0,High School,False,DevOps Engineer
+"machine learning, pandas, statistics, scikit-learn, pytorch, python, ci/cd, data structures, algorithms",7.9,Master,True,Data Scientist
+"stakeholder management, user stories, jira, communication, html, c++, object-oriented programming, data cleaning",4.5,Bachelor,False,Product Manager
+"python, pandas, tensorflow, machine learning, python, user flows, cryptography",9.5,PhD,False,Data Scientist
+"monitoring, ansible, python, deep learning, prototyping, css",0.2,Bachelor,True,DevOps Engineer
+"infrastructure as code, linux, terraform, monitoring, jenkins, ci/cd, networking, webpack",5.9,High School,True,DevOps Engineer
+"vulnerability assessment, cryptography, ethical hacking, risk management, monitoring",7.3,PhD,False,Cybersecurity Analyst
+"design thinking, prototyping, information architecture, aws, monitoring, c++, security compliance",2.1,PhD,True,UX Designer
+"docker, linux, infrastructure as code, python, security, interaction design, api development",4.4,Bachelor,True,DevOps Engineer
+"network security, switching, vpn, lan, tcpip, dns, routing, information architecture",0.2,High School,True,Network Engineer
+"python, security, nosql, typescript, dashboards, design thinking",4.3,High School,False,Backend Developer
+"ruby, node.js, databases, php, css, sql, power bi",9.6,Master,False,Backend Developer
+"c++, agile, java, microservices, python, vue, python, risk management",1.8,Bachelor,True,Software Engineer
+"testing, python, git, debugging, microservices, agile, api development, numpy, security compliance, user research, webpack",8.8,Bachelor,False,Software Engineer
+"hypothesis testing, python, numpy, pandas, data visualization, scikit-learn, tensorflow, networking, analytics, debugging",7.9,Master,True,Data Scientist
+"sql, reporting, tableau, power bi, r, analytics",12.4,Bachelor,False,Data Analyst
+"analytics, roadmapping, agile, presentation skills, routing, nosql",9.7,High School,True,Product Manager
+"communication, agile, analytics, a/b testing, stakeholder management, jira, typescript, figma, css, browser compatibility",5.5,High School,True,Product Manager
+"nosql, security, golang, caching, java",1.0,Bachelor,True,Backend Developer
+"pytorch, pandas, tensorflow, deep learning, c#, sql",11.2,PhD,True,Data Scientist
+"roadmapping, communication, competitive analysis, shell scripting",4.2,Master,True,Product Manager
+"ci/cd, python, linux, jenkins, power bi, jest",0.8,PhD,True,DevOps Engineer
+"ethical hacking, vulnerability assessment, risk management, security compliance, cryptography, siem, security architecture, sketch, adobe xd, javascript, nosql",1.5,Bachelor,True,Cybersecurity Analyst
+"security, security architecture, vulnerability assessment, security auditing, risk management, threat intelligence, cryptography, dns",3.1,PhD,False,Cybersecurity Analyst
+"c#, rest apis, graphql, php, databases, golang, leadership, incident response, dashboards, information architecture",1.7,High School,False,Backend Developer
+"design thinking, adobe xd, information architecture, user research, lan, tableau, typescript",9.9,High School,False,UX Designer
+"subnetting, lan, network security, networking, java, object-oriented programming",0.4,PhD,True,Network Engineer
+"object-oriented programming, algorithms, api development, data structures, microservices, cloud computing, testing, dhcp, infrastructure as code, user stories, wan",3.0,PhD,True,Software Engineer
+"rest apis, python, nosql, authentication, security, java, deep learning, security architecture",0.4,Master,False,Backend Developer
+"microservices, databases, rest apis, ruby, adobe xd",12.2,PhD,False,Backend Developer
+"redux, responsive design, vue, sass, react, javascript, business intelligence",13.3,Bachelor,False,Frontend Developer
+"aws, docker, jenkins, angular, information architecture, a/b testing",7.1,PhD,False,Data Scientist
+"jest, webpack, html, javascript, risk management",5.0,High School,False,Frontend Developer
+"hypothesis testing, statistics, sql, numpy, python, python, kubernetes, accessibility",10.3,PhD,False,Data Scientist
+"networking, azure, aws, risk management",2.4,PhD,True,DevOps Engineer
+"forecasting, sql, data modeling, r, data mining, python, data visualization, rest apis, routing, python",1.9,Master,True,Data Analyst
+"roadmapping, communication, user stories, agile, browser compatibility, accessibility, php",8.9,High School,False,Product Manager
+"ci/cd, jenkins, networking, docker, kubernetes, databases, html",5.3,High School,False,DevOps Engineer
+"a/b testing, pytorch, hypothesis testing, pandas, r, presentation skills, threat intelligence, git",6.8,Master,False,Network Engineer
+"threat intelligence, security, incident response, risk management, vulnerability assessment, c#",3.7,Bachelor,False,Cybersecurity Analyst
+"tcpip, network monitoring, troubleshooting, firewalls, tableau, user research, html",3.5,High School,True,Network Engineer
+"sketch, prototyping, wireframing, testing",0.2,PhD,False,UX Designer
+"api development, debugging, git, security, deep learning, java, network monitoring",2.5,Master,False,Software Engineer
+"infrastructure as code, python, kubernetes, aws, azure, monitoring, security, webpack, data modeling",10.9,PhD,False,DevOps Engineer
+"rest apis, python, databases, network monitoring, data visualization, networking",1.3,High School,True,Backend Developer
+"r, machine learning, numpy, big data, sql, tensorflow, pytorch, vpn, wireframing",4.5,Bachelor,False,Data Scientist
+"sql, statistics, excel, dashboards, data visualization, redux, java, data visualization",15.0,Master,True,Data Analyst
+"kubernetes, infrastructure as code, terraform, power bi",13.9,High School,False,DevOps Engineer
+"scikit-learn, a/b testing, tensorflow, machine learning, deep learning, big data, vulnerability assessment",1.8,Master,False,Data Scientist
+"data cleaning, forecasting, business intelligence, python, sql, data modeling, figma, testing, prototyping",11.8,Master,False,Data Analyst
+"pandas, numpy, deep learning, pytorch, hypothesis testing, sql, power bi, statistics, cisco, security architecture",9.3,High School,False,Data Scientist
+"incident response, penetration testing, siem, security compliance, security, statistics, user stories, caching, infrastructure as code",8.1,High School,False,Cybersecurity Analyst
+"security, azure, monitoring, css, html",8.0,High School,True,DevOps Engineer
+"switching, troubleshooting, tcpip, networking, python",1.5,PhD,False,Network Engineer
+"microservices, databases, data structures, api development, c++, python, node.js, risk management, python, typescript",5.9,High School,False,Software Engineer
+"dhcp, routing, lan, vpn, network security, cisco, r, data structures, machine learning",6.8,High School,False,Network Engineer
+"angular, jest, html, scikit-learn, databases, data modeling",0.4,Master,True,Frontend Developer
+"pytorch, pandas, deep learning, big data, scikit-learn, statistics, interaction design",12.6,Bachelor,True,Software Engineer
+"threat intelligence, vulnerability assessment, security architecture, testing, hypothesis testing, troubleshooting, big data",1.0,Master,False,Cybersecurity Analyst
+"user flows, visual design, information architecture, accessibility, rest apis, agile, security auditing",1.5,PhD,False,UX Designer
+"user flows, wireframing, interaction design, design thinking, presentation skills",9.8,PhD,False,UX Designer
+"react, vue, accessibility, r, accessibility, agile",1.0,Bachelor,True,Frontend Developer
+"sql, dashboards, reporting, excel, data cleaning, python, data visualization, css, presentation skills",1.7,PhD,True,Data Analyst
+"security auditing, siem, ethical hacking, risk management, security, accessibility",5.9,Bachelor,True,Cybersecurity Analyst
+"accessibility, wireframing, interaction design, information architecture, user flows, prototyping, sketch, dashboards, java",8.6,High School,False,UX Designer
+"caching, node.js, rest apis, java, databases, php, authentication, html, data visualization, agile, scrum",10.7,PhD,True,Backend Developer
+"infrastructure as code, security, linux, azure, ansible, redux, a/b testing, market research",0.5,High School,False,DevOps Engineer
+"data modeling, dashboards, data cleaning, python, data mining, r, redux, cloud computing, figma, security architecture",0.7,PhD,False,Data Analyst
+"responsive design, accessibility, ui frameworks, typescript, redux, webpack, power bi, figma, data mining",14.9,PhD,False,Frontend Developer
+"c++, testing, debugging, ui frameworks, python, statistics",2.4,High School,True,Software Engineer
+"sql, python, business intelligence, excel, statistics, data cleaning, r, python, subnetting",1.3,PhD,True,Data Analyst
+"machine learning, r, tensorflow, pandas, threat intelligence, data structures",2.4,PhD,False,Data Scientist
+"php, security, databases, graphql, scikit-learn",6.4,PhD,True,Backend Developer
+"business intelligence, r, data cleaning, sql, dashboards, docker, subnetting, pytorch",11.1,PhD,True,Data Analyst
+"user flows, interaction design, user research, prototyping, adobe xd, ui frameworks, debugging, leadership",13.4,Bachelor,True,UX Designer
+"docker, terraform, linux, visual design, databases",2.7,High School,False,DevOps Engineer
+"c++, databases, python, javascript, git, networking, security architecture, cisco",5.7,Master,True,Software Engineer
+"cryptography, security auditing, siem, security, object-oriented programming",0.8,High School,False,Cybersecurity Analyst
+"stakeholder management, presentation skills, a/b testing, user stories, scrum, switching, webpack, design thinking",9.3,Bachelor,False,Product Manager
+"docker, shell scripting, infrastructure as code, linux, security, aws, product strategy, competitive analysis, jira, data structures",11.5,Master,True,DevOps Engineer
+"statistics, sql, hypothesis testing, big data, numpy, a/b testing, r, roadmapping",7.0,Master,False,Data Scientist
+"redux, webpack, sass, responsive design, browser compatibility, product strategy, nosql",8.6,PhD,False,Frontend Developer
+"user flows, user research, css, sketch, wireframing, data cleaning, terraform, dns",0.6,Master,True,UX Designer
+"responsive design, css, sass, angular, vue, accessibility, aws, usability testing",6.2,Bachelor,True,Frontend Developer
+"data modeling, python, reporting, business intelligence, forecasting, dashboards, power bi, nosql, hypothesis testing, python",2.3,Master,False,Data Analyst
+"vue, ui frameworks, css, html, sass, angular, jest, firewalls, troubleshooting",4.8,Master,False,Frontend Developer
+"project management, communication, user stories, competitive analysis, html, azure, microservices, data structures",2.4,PhD,True,Product Manager
+"hypothesis testing, data visualization, deep learning, python, user research",4.1,Master,True,Data Scientist
+"user flows, interaction design, user research, usability testing, adobe xd, design thinking, information architecture, java",4.7,Bachelor,True,UX Designer
+"business intelligence, sql, reporting, data mining, excel, power bi, data modeling, c#, firewall, risk management, html",9.0,High School,False,Data Analyst
+"security architecture, risk management, penetration testing, security auditing, security compliance, siem, algorithms, big data",2.7,PhD,True,Cybersecurity Analyst
+"communication, project management, leadership, market research, python, infrastructure as code",14.3,High School,True,Backend Developer
+"r, excel, statistics, sql, dashboards, tableau, data modeling, network security, sketch",2.8,PhD,True,Data Analyst
+"python, ansible, kubernetes, shell scripting, terraform, accessibility, statistics",0.0,Bachelor,False,DevOps Engineer
+"webpack, typescript, angular, redux, cisco",9.7,High School,True,Frontend Developer
+"java, sql, graphql, c#, ruby, python, security compliance, data modeling",0.1,High School,True,Backend Developer
+"jest, angular, vue, redux, browser compatibility, javascript, ui frameworks, presentation skills",10.4,High School,True,Frontend Developer
+"networking, ansible, monitoring, security, terraform, infrastructure as code, docker, java, vpn, hypothesis testing, vue",8.5,Master,True,DevOps Engineer
+"agile, market research, project management, usability testing",1.0,PhD,True,Data Analyst
+"data modeling, excel, dashboards, product strategy, api development, pandas, css",1.4,High School,False,Data Analyst
+"css, accessibility, sass, vue, javascript, webpack, dashboards, presentation skills, security",0.5,Master,False,Frontend Developer
+"sketch, usability testing, wireframing, information architecture, prototyping, visual design, linux, monitoring, databases",2.3,PhD,True,Product Manager
+"scikit-learn, pandas, r, sql, machine learning, stakeholder management, ansible, communication, javascript",11.0,Bachelor,False,Data Scientist
+"data structures, python, algorithms, accessibility, ethical hacking, communication",8.2,High School,True,Software Engineer
+"python, caching, microservices, authentication, databases, machine learning",1.4,Bachelor,True,Backend Developer
+"jest, responsive design, typescript, wireframing, java, python, cryptography",3.1,High School,True,Frontend Developer
+"sketch, html, accessibility, usability testing, figma, threat intelligence, data visualization, statistics",0.5,PhD,True,UX Designer
+"incident response, threat intelligence, firewall, risk management, siem, competitive analysis, tensorflow",1.3,High School,False,Cybersecurity Analyst
+"python, git, microservices, vpn, statistics, troubleshooting, firewalls",1.3,High School,True,Software Engineer
+"reporting, python, tableau, sql, dashboards, troubleshooting",0.7,Bachelor,True,Data Analyst
+"python, microservices, c#, microservices, roadmapping",7.7,PhD,False,Backend Developer
+"c#, authentication, python, security, java, responsive design, wireframing",8.3,Bachelor,True,Backend Developer
+"ci/cd, networking, terraform, infrastructure as code, wireframing",1.9,PhD,True,DevOps Engineer
+"visual design, user flows, figma, user research, sketch, sql, machine learning, business intelligence",7.1,Bachelor,False,UX Designer
+"nosql, php, ruby, golang, debugging, ci/cd",3.6,PhD,False,Backend Developer
+"analytics, stakeholder management, roadmapping, a/b testing, communication, market research, r, information architecture, firewall",4.4,High School,False,Product Manager
+"statistics, data cleaning, r, forecasting, dashboards, python, threat intelligence",5.4,Master,False,Data Analyst
+"scrum, communication, user stories, leadership, product strategy, roadmapping, python, interaction design, responsive design",7.2,Master,True,Product Manager
+"penetration testing, firewall, security, risk management, security architecture, communication, ci/cd, data visualization",3.7,PhD,True,DevOps Engineer
+"data mining, forecasting, excel, r, business intelligence, data cleaning, data visualization, graphql, networking, java",3.3,Bachelor,True,Data Analyst
+"r, data modeling, dashboards, python, data cleaning, vue",0.9,Master,False,Data Analyst
+"microservices, cloud computing, c++, debugging, javascript, vulnerability assessment",9.8,Bachelor,False,Software Engineer
+"analytics, a/b testing, competitive analysis, scrum, html, webpack",1.4,Master,False,Product Manager
+"security, cryptography, security compliance, penetration testing, firewall, incident response, vulnerability assessment, ui frameworks",8.6,Master,True,Cybersecurity Analyst
+"networking, jenkins, monitoring, linux, sass",8.5,Master,False,DevOps Engineer
+"caching, security, microservices, java, node.js, python, kubernetes, redux, tcpip",4.0,Master,False,Backend Developer
+"c++, api development, debugging, testing, java, switching",1.8,Master,False,Software Engineer
+"sql, excel, power bi, r, market research",13.1,Bachelor,False,Software Engineer
+"agile, roadmapping, product strategy, project management, python",3.4,Bachelor,False,Product Manager
+"caching, databases, node.js, golang, python, ansible, data visualization, redux",2.7,High School,False,Backend Developer
+"aws, terraform, networking, kubernetes, numpy, accessibility",4.2,PhD,True,DevOps Engineer
+"object-oriented programming, javascript, git, debugging, c++, pandas, html, security, php",1.0,PhD,True,Software Engineer
+"microservices, python, c#, sql, node.js, scrum, information architecture, pytorch, databases",11.4,High School,True,Backend Developer
+"machine learning, tensorflow, statistics, pytorch, hypothesis testing, r, adobe xd",14.8,Master,True,Data Scientist
+"git, testing, agile, javascript, databases, data structures, debugging, numpy",7.4,PhD,True,Software Engineer
+"ruby, c#, java, security, microservices, databases, firewalls, security compliance",3.5,PhD,True,Data Analyst
+"switching, subnetting, routing, data visualization",0.6,Bachelor,False,Network Engineer
+"browser compatibility, redux, jest, javascript, angular, responsive design, caching, dhcp, html, r",13.3,Master,False,Frontend Developer
+"interaction design, accessibility, wireframing, figma, browser compatibility, python",7.7,Bachelor,True,UX Designer
+"sql, forecasting, data mining, data modeling, r, power bi, security, nosql, competitive analysis",13.6,Bachelor,False,Data Analyst
+"ethical hacking, siem, security architecture, firewall, security compliance, javascript",13.3,PhD,True,Cybersecurity Analyst
+"incident response, siem, security architecture, security, penetration testing, risk management, cryptography, ci/cd",1.6,Master,False,Cybersecurity Analyst
+"r, scikit-learn, pytorch, machine learning, numpy, market research, user flows, stakeholder management, css",14.5,High School,True,Data Scientist
+"git, testing, cloud computing, debugging, nosql, routing, incident response",13.5,Master,True,Software Engineer
+"a/b testing, hypothesis testing, r, tcpip, competitive analysis, dashboards",10.7,Bachelor,False,Data Scientist
+"statistics, reporting, power bi, python, data mining, excel, docker, firewall",1.7,Master,False,Data Analyst
+"react, html, jest, aws",3.3,PhD,True,Frontend Developer
+"azure, infrastructure as code, security, pandas",9.4,Master,True,DevOps Engineer
+"statistics, pandas, data visualization, big data, r, scikit-learn, numpy, accessibility, security, angular",0.2,Bachelor,True,Data Scientist
+"security architecture, penetration testing, security, security compliance, power bi, microservices, routing, ci/cd",9.2,Bachelor,True,Frontend Developer
+"agile, data structures, microservices, algorithms, databases, python, api development, golang, subnetting, webpack, security auditing",2.3,PhD,True,Software Engineer
+"ruby, authentication, graphql, rest apis, security, leadership, vpn, jenkins",1.2,Master,True,Backend Developer
+"tensorflow, pytorch, hypothesis testing, a/b testing, big data, r, numpy, security architecture, azure, threat intelligence, jenkins",3.6,High School,False,Data Scientist
+"stakeholder management, roadmapping, agile, redux, ruby, networking, c#",1.0,Master,False,Product Manager
+"user research, figma, prototyping, interaction design, python",3.0,Bachelor,True,UX Designer
+"ruby, c#, java, caching, microservices, node.js, sql, dns",13.3,Bachelor,True,Backend Developer
+"agile, a/b testing, leadership, communication, risk management, ui frameworks, testing, usability testing",2.1,High School,True,Product Manager
+"power bi, dashboards, data cleaning, tableau, graphql, dhcp",10.4,PhD,True,Data Analyst
+"firewalls, vpn, network security, networking, tcpip, dns, routing, incident response, risk management",2.5,Bachelor,False,Network Engineer
+"php, rest apis, c#, databases, security, graphql, python, sql, project management",3.1,High School,False,Backend Developer
+"tcpip, network security, subnetting, lan, roadmapping, communication, statistics, security",10.2,PhD,False,Network Engineer
+"network monitoring, networking, tcpip, lan, power bi, javascript",2.6,High School,False,Network Engineer
+"design thinking, visual design, interaction design, microservices",10.5,Master,True,UX Designer
+"javascript, agile, testing, data structures, debugging, algorithms, c++, switching, accessibility, cryptography",6.9,PhD,True,Software Engineer
+"prototyping, sketch, visual design, css, react, stakeholder management, ansible, network monitoring",8.2,High School,True,UX Designer
+"testing, c++, javascript, debugging, git, java, golang",0.3,High School,True,Software Engineer
+"vue, css, react, responsive design, jest, webpack, information architecture",4.5,High School,False,Frontend Developer
+"subnetting, vpn, networking, cisco, troubleshooting, firewalls, design thinking",0.6,High School,False,Network Engineer
+"data visualization, statistics, a/b testing, sql, network monitoring, python, threat intelligence, ethical hacking",3.5,PhD,True,DevOps Engineer
+"microservices, ruby, graphql, c#, caching, java, responsive design",0.5,Master,True,Backend Developer
+"hypothesis testing, pytorch, a/b testing, statistics, sql, deep learning, databases, user stories, routing",0.6,Bachelor,False,Data Scientist
+"wireframing, interaction design, usability testing, user flows, accessibility, prototyping, sketch, css, data visualization, python",8.4,High School,False,UX Designer
+"pandas, pytorch, sql, tensorflow, wireframing, user stories",1.3,Master,True,Data Scientist
+"java, c#, authentication, microservices, nosql, sql, databases, deep learning, security auditing, webpack, java",9.6,Master,True,Backend Developer
+"databases, javascript, api development, cloud computing, git, network monitoring, html",14.5,PhD,True,Software Engineer
+"sql, pytorch, r, hypothesis testing, redux, presentation skills",1.9,Bachelor,True,Data Scientist
+"market research, leadership, product strategy, project management, presentation skills, communication, jira, tcpip",5.9,Master,True,Product Manager
+"webpack, redux, ui frameworks, big data, microservices",10.2,Bachelor,False,Frontend Developer
+"user stories, jira, leadership, html, data modeling",14.5,Bachelor,True,Product Manager
+"vpn, tcpip, subnetting, switching, hypothesis testing",8.1,High School,True,Network Engineer
+"sql, business intelligence, reporting, tableau, data cleaning, switching, sketch",7.3,High School,False,Data Analyst
+"pandas, python, machine learning, scrum, jest, agile",11.7,PhD,False,Data Scientist
+"algorithms, databases, microservices, data structures, cloud computing, forecasting, data mining",0.3,Bachelor,True,Software Engineer
+"project management, presentation skills, roadmapping, responsive design, pandas, docker",1.6,Master,True,Product Manager
+"adobe xd, interaction design, accessibility, information architecture, html, prototyping, penetration testing",5.1,Bachelor,True,UX Designer
+"networking, subnetting, wan, routing, dns, python, statistics, agile, prototyping",5.5,PhD,False,Network Engineer
+"responsive design, html, webpack, javascript, cloud computing, python, python",6.6,Bachelor,False,Frontend Developer
+"javascript, cloud computing, data structures, presentation skills",9.6,PhD,False,Software Engineer
+"css, react, jest, data visualization, sql, tableau, security",4.8,Bachelor,True,Frontend Developer
+"sql, scikit-learn, r, hypothesis testing, pytorch, product strategy, databases, nosql, javascript",8.3,Master,False,Data Scientist
+"react, ui frameworks, html, vpn",0.4,Bachelor,True,Frontend Developer
+"a/b testing, product strategy, analytics, project management, agile, stakeholder management, leadership, user flows, security compliance, sql",2.5,PhD,True,Product Manager
+"accessibility, jest, browser compatibility, html, responsive design, figma, agile, microservices, information architecture",0.1,Master,False,Frontend Developer
+"data structures, testing, algorithms, python, excel, roadmapping, networking",7.6,High School,False,Software Engineer
+"jest, browser compatibility, ui frameworks, webpack, react, user research",0.2,Bachelor,False,Frontend Developer
+"kubernetes, aws, networking, accessibility, data cleaning, accessibility",0.1,High School,True,Product Manager
+"sql, data cleaning, data visualization, forecasting, firewall",4.6,PhD,True,Data Analyst
+"firewall, penetration testing, security architecture, vulnerability assessment, security auditing, threat intelligence, prototyping, c#",8.2,High School,True,Cybersecurity Analyst
+"html, css, design thinking, usability testing, visual design, prototyping, analytics, python, kubernetes",1.4,High School,False,UX Designer
+"a/b testing, leadership, presentation skills, roadmapping, wan, a/b testing",0.6,Master,False,Product Manager
+"sql, python, tableau, forecasting, power bi, data mining, python",13.7,Master,True,Data Analyst
+"big data, sql, pandas, statistics, numpy, a/b testing, prototyping, accessibility, dhcp",9.2,Master,True,Data Scientist
+"kubernetes, jenkins, python, ansible, javascript",4.6,Master,False,DevOps Engineer
+"kubernetes, docker, python, php, network monitoring, c++",14.0,Master,False,DevOps Engineer
+"presentation skills, analytics, scrum, communication, product strategy, roadmapping, project management, angular",2.0,PhD,False,Product Manager
+"linux, security, docker, kubernetes, networking, python, monitoring, data visualization, presentation skills, data mining, sql",11.5,High School,False,DevOps Engineer
+"debugging, testing, api development, git, data visualization, css, pytorch",5.1,High School,True,Software Engineer
+"databases, c#, php, node.js, sql, troubleshooting",0.7,High School,True,Backend Developer
+"ethical hacking, incident response, risk management, security, security compliance, threat intelligence, market research, statistics",9.6,High School,False,Cybersecurity Analyst
+"sass, webpack, css, browser compatibility, typescript, ui frameworks, html, prototyping, competitive analysis",9.2,PhD,True,Frontend Developer
+"java, sql, node.js, python, php, security, prototyping, visual design, data mining",5.3,High School,False,Backend Developer
+"dhcp, tcpip, wan, routing, switching, dns, lan, webpack",7.9,High School,False,Network Engineer
+"project management, roadmapping, product strategy, analytics, scikit-learn, r, html",9.7,PhD,True,Product Manager
+"python, sql, data modeling, statistics, linux",7.2,Bachelor,False,Data Analyst
+"firewall, threat intelligence, incident response, security auditing, typescript, python",10.7,Master,False,Cybersecurity Analyst
+"jira, communication, project management, routing, aws, switching",12.8,Bachelor,False,Product Manager
+"api development, microservices, git, python, debugging, authentication",1.7,PhD,False,Software Engineer
+"api development, java, cloud computing, data structures, microservices, agile, network monitoring, nosql, presentation skills",9.9,Bachelor,True,Software Engineer
+"ethical hacking, cryptography, risk management, security, firewall, sql, jest, angular, market research",11.4,Master,True,DevOps Engineer
+"machine learning, sql, pytorch, a/b testing, data visualization, python, pandas, terraform, data structures, react",0.1,Master,False,Data Scientist
+"wireframing, figma, user research, user flows, prototyping, information architecture, accessibility, statistics, accessibility",4.5,PhD,True,UX Designer
+"r, statistics, forecasting, business intelligence, data cleaning, data modeling, dashboards, wan, vpn, testing",2.1,PhD,False,Data Analyst
+"networking, linux, jenkins, monitoring, shell scripting, docker, python, databases",9.2,Bachelor,True,DevOps Engineer
+"hypothesis testing, machine learning, big data, cloud computing, node.js, databases, product strategy",9.8,Bachelor,True,Data Scientist
+"sketch, css, interaction design, html, user research, visual design, figma, sql",1.8,Master,False,UX Designer
+"browser compatibility, react, javascript, networking, roadmapping",14.3,PhD,False,Frontend Developer
+"routing, subnetting, dns, c++, c#, javascript",5.2,PhD,True,Network Engineer
+"penetration testing, security compliance, cryptography, siem, authentication",0.2,Bachelor,False,Cybersecurity Analyst
+"data mining, forecasting, business intelligence, data visualization, excel, security compliance, html, analytics",0.1,PhD,True,Data Analyst
+"sql, python, microservices, nosql, graphql, ruby, c#, data cleaning, security",1.9,Master,False,Backend Developer
+"statistics, big data, scikit-learn, a/b testing, numpy, sql, figma",11.9,High School,True,Data Scientist
+"troubleshooting, lan, tcpip, routing, jest, siem, r",9.4,High School,True,Network Engineer
+"threat intelligence, incident response, security auditing, firewall, vulnerability assessment, information architecture, golang, testing",1.6,Master,False,Cybersecurity Analyst
+"aws, monitoring, ci/cd, docker, jenkins, linux, data structures, interaction design, javascript",7.4,Master,True,DevOps Engineer
+"market research, user stories, competitive analysis, stakeholder management, project management, presentation skills, roadmapping, security compliance, penetration testing, data visualization, infrastructure as code",9.7,Master,True,Product Manager
+"cloud computing, agile, microservices, databases, debugging, python, algorithms, roadmapping, dhcp, numpy, jenkins",3.1,Master,True,Software Engineer
+"penetration testing, security auditing, incident response, forecasting, agile, communication, jenkins",1.6,High School,True,Cybersecurity Analyst
+"network monitoring, dns, cisco, prototyping",11.7,Master,False,Network Engineer
+"python, data visualization, data modeling, statistics, excel, r, a/b testing",12.9,Bachelor,True,Data Analyst
+"azure, security, docker, python, monitoring, ansible, css, vulnerability assessment, angular, design thinking",1.2,High School,False,DevOps Engineer
+"css, webpack, sass, figma, a/b testing, incident response",4.4,High School,False,Frontend Developer
+"dns, network monitoring, wan, subnetting, vpn, docker, python",8.9,Bachelor,False,Network Engineer
+"threat intelligence, vulnerability assessment, siem, firewall, incident response, penetration testing, aws, c#, power bi",0.7,PhD,False,Cybersecurity Analyst
+"scrum, project management, presentation skills, python, c++",12.8,High School,True,Product Manager
+"tableau, reporting, python, excel, numpy, python, python",0.3,High School,False,Data Analyst
+"ethical hacking, cryptography, security auditing, risk management, vulnerability assessment, incident response, leadership, tcpip, r, css",14.1,Bachelor,False,Cybersecurity Analyst
+"html, design thinking, interaction design, adobe xd, information architecture, statistics, infrastructure as code, pytorch, excel",9.5,PhD,True,UX Designer
+"dashboards, statistics, data cleaning, power bi, business intelligence, sql, data visualization, pytorch",6.4,PhD,True,Data Analyst
+"machine learning, scikit-learn, sql, data visualization, node.js, lan",0.5,Bachelor,False,Data Scientist
+"c++, javascript, databases, agile, git, docker, node.js, accessibility",10.6,PhD,False,Software Engineer
+"databases, debugging, java, testing, git, javascript, data visualization",0.7,PhD,True,Software Engineer
+"angular, vue, accessibility, react, webpack, javascript, jest, threat intelligence",8.2,Master,False,Frontend Developer
+"user stories, stakeholder management, project management, security, machine learning, vue, security",7.6,PhD,False,Product Manager
+"machine learning, pandas, numpy, scikit-learn, statistics, accessibility, power bi, network security",1.9,High School,True,UX Designer
+"user research, sketch, figma, user flows, information architecture, dashboards, vpn",6.7,Bachelor,False,UX Designer
+"network security, wan, firewalls, routing, subnetting, switching, object-oriented programming, databases, business intelligence, kubernetes",5.6,Bachelor,True,Network Engineer
+"excel, r, tableau, sql",1.5,Master,True,Data Analyst
+"angular, react, javascript, vue, typescript, browser compatibility, git, communication, usability testing, azure",2.8,Bachelor,True,Frontend Developer
+"redux, browser compatibility, react, algorithms",8.0,PhD,False,Frontend Developer
+"sql, python, forecasting, r, business intelligence, linux, jenkins",8.7,PhD,False,Data Analyst
+"statistics, data cleaning, tableau, sql, data modeling, data visualization, forecasting, python",2.8,High School,False,Data Analyst
+"css, interaction design, wireframing, ansible, data cleaning, kubernetes, python",3.3,PhD,False,UX Designer
+"vue, redux, browser compatibility, responsive design, html, javascript, cisco, golang",3.2,Bachelor,True,Frontend Developer
+"databases, ruby, sql, golang, node.js, nosql, c#, usability testing, vpn, incident response, security",8.5,Master,True,Backend Developer
+"security compliance, cryptography, siem, security auditing, aws, react, product strategy, wireframing",4.1,High School,True,Cybersecurity Analyst
+"microservices, databases, java, graphql, aws, ci/cd, browser compatibility",1.0,PhD,True,Backend Developer
+"ci/cd, security, infrastructure as code, golang, javascript, information architecture, statistics",8.9,Bachelor,False,DevOps Engineer
+"c++, testing, cloud computing, object-oriented programming, databases, git, api development, python, deep learning",11.6,Master,False,Software Engineer
+"adobe xd, visual design, prototyping, vue, dhcp",0.1,Bachelor,True,UX Designer
+"rest apis, java, authentication, microservices, node.js, graphql, terraform, vpn, typescript",10.9,Bachelor,True,Backend Developer
+"vue, sass, angular, ruby, big data, statistics, switching",2.2,Bachelor,False,Frontend Developer
+"threat intelligence, incident response, security compliance, api development, a/b testing, react",6.9,Master,False,Cybersecurity Analyst
+"adobe xd, html, usability testing, interaction design, prototyping, figma, deep learning, data mining, infrastructure as code, security architecture",3.9,High School,False,UX Designer
+"accessibility, user research, usability testing, interaction design, data mining, pandas, dns, ui frameworks",0.8,High School,False,UX Designer
+"firewalls, cisco, tcpip, prototyping",0.8,Master,False,Network Engineer
+"jest, browser compatibility, react, html, webpack, css, infrastructure as code, graphql",0.2,Bachelor,False,Frontend Developer
+"a/b testing, stakeholder management, market research, roadmapping, scrum, algorithms, ci/cd",0.5,High School,True,Product Manager
+"html, typescript, angular, css, react, network security, golang",6.9,Master,False,Data Scientist
+"sketch, information architecture, user flows, security architecture",8.7,PhD,False,DevOps Engineer
+"sketch, html, interaction design, kubernetes, responsive design, java",8.6,PhD,True,UX Designer
+"a/b testing, jira, project management, user stories, agile, stakeholder management, data visualization",3.4,Master,True,Product Manager
+"security auditing, risk management, ethical hacking, security, incident response, security compliance, vulnerability assessment, css, numpy, figma",14.0,Bachelor,False,Cybersecurity Analyst
+"siem, security architecture, security compliance, incident response, penetration testing, vue, leadership, tableau",2.7,High School,False,Cybersecurity Analyst
+"shell scripting, azure, jenkins, ansible, ci/cd, python, scrum, sass, cloud computing, sql",3.7,Master,False,DevOps Engineer
+"pandas, pytorch, sql, tensorflow, numpy, cryptography, security auditing, python",5.0,High School,False,Data Scientist
+"incident response, security auditing, threat intelligence, vulnerability assessment, ethical hacking, security architecture, siem, object-oriented programming",10.6,High School,True,Cybersecurity Analyst
+"cisco, network security, vpn, dhcp, databases, testing",4.2,PhD,True,Network Engineer
+"sketch, adobe xd, wireframing, visual design, accessibility, information architecture, jira, a/b testing, browser compatibility, api development",9.6,PhD,True,UX Designer
+"data cleaning, business intelligence, dashboards, excel, python, testing, lan, graphql",1.9,Master,True,Data Analyst
+"incident response, vulnerability assessment, security, ethical hacking, siem, python, react, data modeling",12.5,High School,True,Cybersecurity Analyst
+"tcpip, lan, network security, troubleshooting, firewalls, dhcp, cisco, roadmapping",1.8,High School,True,Network Engineer
+"authentication, graphql, rest apis, caching, python, c#, java, big data, data modeling, kubernetes, machine learning",9.9,Bachelor,False,Backend Developer
+"html, css, accessibility, user flows, prototyping, design thinking, visual design, security compliance, risk management",13.8,Master,True,UX Designer
+"data visualization, pytorch, r, a/b testing, dhcp, linux",8.2,PhD,False,Data Scientist
+"siem, threat intelligence, ethical hacking, competitive analysis, ui frameworks",1.3,High School,False,Cybersecurity Analyst
+"javascript, vue, redux, typescript, sass, data visualization, python, switching",1.1,High School,True,Frontend Developer
+"c#, microservices, rest apis, git, product strategy",8.8,Master,False,UX Designer
+"network security, networking, troubleshooting, tcpip, php, user stories, machine learning",4.0,High School,True,Network Engineer
+"security, penetration testing, security compliance, threat intelligence, adobe xd, excel",1.1,Master,False,Cybersecurity Analyst
+"user flows, interaction design, wireframing, sketch, python, power bi",7.7,Master,False,Data Analyst
+"monitoring, shell scripting, aws, docker, azure, ui frameworks, visual design",9.7,PhD,True,DevOps Engineer
+"accessibility, wireframing, user flows, adobe xd, sketch, visual design, usability testing, market research",2.4,Bachelor,False,UX Designer
+"ui frameworks, responsive design, javascript, networking",7.6,Master,True,Frontend Developer
+"java, debugging, testing, javascript, microservices, agile, html, php",12.8,Master,False,Software Engineer
+"security auditing, siem, risk management, security compliance, firewall, penetration testing, ethical hacking, responsive design",7.9,High School,False,Cybersecurity Analyst
+"deep learning, r, sql, pytorch, html, javascript",1.8,PhD,False,Data Scientist
+"pandas, statistics, r, python, data visualization, product strategy, c++, html",14.1,PhD,False,Data Scientist
+"java, databases, sql, databases, a/b testing, security compliance, r",11.4,PhD,True,Cybersecurity Analyst
+"data modeling, statistics, data mining, ui frameworks, agile",5.7,PhD,False,Data Analyst
+"c++, debugging, algorithms, python, ci/cd, reporting",1.2,High School,True,Software Engineer
+"nosql, caching, python, authentication, java, a/b testing, statistics",9.5,Master,False,Backend Developer
+"siem, firewall, security, penetration testing, design thinking, docker",9.1,Master,False,Cybersecurity Analyst
+"hypothesis testing, machine learning, tensorflow, ci/cd, switching",1.2,Bachelor,False,Data Scientist
+"big data, scikit-learn, tensorflow, rest apis, angular",1.4,Bachelor,True,Data Scientist
+"java, databases, microservices, nosql, security, caching, graphql, business intelligence, troubleshooting, javascript, dns",4.5,High School,True,Backend Developer
+"competitive analysis, jira, communication, stakeholder management, terraform, angular",1.1,High School,True,Software Engineer
+"penetration testing, ethical hacking, risk management, security compliance, security auditing, firewall, threat intelligence, data cleaning, networking",13.6,Bachelor,True,Cybersecurity Analyst
+"power bi, python, data cleaning, cisco",9.9,PhD,False,Data Analyst
+"databases, python, rest apis, java, sql, machine learning, ui frameworks, excel, monitoring",6.8,Bachelor,False,Backend Developer
+"information architecture, design thinking, prototyping, user research, accessibility, golang, data mining",2.5,High School,False,UX Designer
+"azure, terraform, python, networking, shell scripting, wan",3.1,Bachelor,True,DevOps Engineer
+"object-oriented programming, data structures, git, python, debugging, docker, data visualization, nosql, monitoring",9.8,PhD,False,Software Engineer
+"competitive analysis, a/b testing, roadmapping, jira, communication, presentation skills, a/b testing, react",4.3,PhD,False,Product Manager
+"communication, product strategy, project management, agile, business intelligence",6.5,High School,False,Product Manager
+"golang, authentication, databases, numpy, python",6.0,High School,False,Backend Developer
+"javascript, vue, react, typescript, html, css, pandas, c++, statistics",4.7,Master,True,Frontend Developer
+"shell scripting, linux, infrastructure as code, monitoring, jenkins, ci/cd, python, javascript, business intelligence, data visualization",1.2,Master,False,DevOps Engineer
+"a/b testing, competitive analysis, market research, jira, presentation skills, leadership, subnetting, shell scripting, ruby, jest",3.3,Master,False,Product Manager
+"networking, ci/cd, monitoring, terraform, azure, aws, jenkins, security architecture, stakeholder management",0.3,Master,False,DevOps Engineer
+"security, graphql, c#, sql, node.js, presentation skills, jenkins, redux, firewall",0.9,PhD,False,Backend Developer
+"market research, stakeholder management, competitive analysis, roadmapping, forecasting, css, ruby, caching",9.5,Bachelor,True,Product Manager
+"ruby, c#, sql, java, golang, python, microservices, siem, a/b testing, statistics",1.1,Bachelor,True,Backend Developer
+"ruby, php, node.js, c#, authentication, statistics",3.4,Master,False,Backend Developer
+"kubernetes, azure, jenkins, networking, infrastructure as code, penetration testing, networking, databases",3.0,Bachelor,False,DevOps Engineer
+"user stories, product strategy, roadmapping, presentation skills, leadership, stakeholder management, scrum, vpn, a/b testing, algorithms",6.3,PhD,True,Product Manager
+"interaction design, sketch, adobe xd, usability testing, information architecture, security",10.5,High School,False,UX Designer
+"java, cloud computing, api development, agile, debugging, algorithms, dhcp, lan, accessibility",9.3,Bachelor,True,Software Engineer
+"algorithms, agile, data structures, testing, javascript, pandas",8.5,PhD,True,Software Engineer
+"business intelligence, statistics, python, excel, data modeling, tableau, docker, wireframing",4.4,Master,False,Data Analyst
+"sketch, wireframing, css, html, leadership, tcpip",1.2,Bachelor,True,UX Designer
+"authentication, nosql, graphql, sass, javascript, accessibility",10.1,Master,False,Backend Developer
+"c#, security, sql, databases, graphql, node.js, html, vpn, kubernetes, javascript",4.9,Bachelor,True,Backend Developer
+"vulnerability assessment, security compliance, ethical hacking, risk management, siem, security, business intelligence, adobe xd, sketch",12.3,Bachelor,True,Cybersecurity Analyst
+"vpn, troubleshooting, routing, lan, network monitoring, debugging, accessibility, market research, prototyping",3.3,Master,True,Network Engineer
+"siem, threat intelligence, risk management, vulnerability assessment, lan, azure, terraform",0.5,PhD,False,Cybersecurity Analyst
+"jira, stakeholder management, user stories, roadmapping, agile, wan, microservices, prototyping, agile",9.8,PhD,True,Product Manager
+"tcpip, dhcp, subnetting, wan, jenkins, html, authentication, cloud computing",3.1,Bachelor,True,Network Engineer
+"sql, scikit-learn, data visualization, deep learning, numpy, python, data modeling",9.1,Bachelor,True,Data Scientist
+"security auditing, vulnerability assessment, siem, cryptography, penetration testing, product strategy, tensorflow",6.8,Master,True,Cybersecurity Analyst
+"firewall, security architecture, risk management, cryptography, threat intelligence, vulnerability assessment, security auditing, scikit-learn",8.5,Bachelor,False,Cybersecurity Analyst
+"sql, data visualization, tableau, excel, data mining, data cleaning, analytics, sketch",9.0,Master,True,Data Analyst
+"tensorflow, scikit-learn, pytorch, kubernetes, penetration testing, javascript, jest",0.4,High School,True,Data Scientist
+"microservices, security, sql, node.js, databases, deep learning, tableau",12.6,Master,False,Backend Developer
+"siem, security compliance, incident response, threat intelligence, risk management, ethical hacking, sass, html, pandas",2.3,PhD,True,Cybersecurity Analyst
+"microservices, sql, nosql, security, python, rest apis, ruby, dashboards",14.9,Master,False,Backend Developer
+"infrastructure as code, python, docker, ansible, terraform, security, data visualization, authentication",9.3,PhD,True,DevOps Engineer
+"network security, dns, troubleshooting, switching, routing, vpn, lan, analytics, usability testing, prototyping",9.7,PhD,True,Network Engineer
+"authentication, java, caching, ruby, golang, python, product strategy, power bi, python",1.3,Master,False,Backend Developer
+"user research, accessibility, css, wireframing, design thinking, ansible, python, python",2.1,Bachelor,False,UX Designer
+"data mining, forecasting, r, r",5.6,Master,True,Data Analyst
+"user stories, jira, market research, presentation skills, leadership, roadmapping, business intelligence, data visualization",3.5,Bachelor,True,Product Manager
+"terraform, networking, kubernetes, security, ci/cd, shell scripting, python, risk management, python, security architecture, data visualization",6.8,Bachelor,True,DevOps Engineer
+"business intelligence, dashboards, data modeling, r, reporting, python, excel, communication",8.7,Bachelor,True,Data Analyst
+"interaction design, prototyping, wireframing, information architecture, user research, usability testing, figma, typescript, lan, jenkins, data modeling",2.2,PhD,True,UX Designer
+"c#, authentication, caching, nosql, sql, debugging, security, presentation skills",5.4,Bachelor,False,Backend Developer
+"excel, python, sql, reporting, data cleaning, data modeling, power bi, market research, tensorflow, product strategy, a/b testing",12.4,Bachelor,True,Data Analyst
+"shell scripting, kubernetes, python, jenkins, terraform, aws, ci/cd, graphql, responsive design",8.1,PhD,True,DevOps Engineer
+"incident response, security architecture, firewall, security auditing, risk management, ethical hacking, information architecture, stakeholder management, sketch, docker",1.6,High School,False,Cybersecurity Analyst
+"aws, terraform, security, kubernetes, adobe xd, dhcp, jest",5.3,High School,False,DevOps Engineer
+"linux, terraform, python, design thinking, webpack",2.6,High School,False,DevOps Engineer
+"adobe xd, user research, wireframing, design thinking, visual design, siem, security compliance, project management",11.0,High School,True,UX Designer
+"data visualization, data cleaning, python, forecasting, data mining, data modeling, tableau, sass, azure",8.9,Master,True,Data Analyst
+"power bi, r, dashboards, reporting, security, security, debugging, databases",6.8,Bachelor,True,Data Analyst
+"browser compatibility, css, vue, javascript, python, security, python, security auditing",10.7,Master,True,Frontend Developer
+"pytorch, deep learning, numpy, machine learning, c++, data cleaning, terraform, caching",8.0,Master,False,Data Scientist
+"tensorflow, a/b testing, numpy, hypothesis testing, statistics, dashboards, debugging",4.2,Master,False,Data Scientist
+"infrastructure as code, linux, python, ci/cd, ansible, security, azure, jest, node.js, data modeling",1.5,Bachelor,True,DevOps Engineer
+"sql, r, forecasting, python, dashboards, reporting, competitive analysis, monitoring, machine learning, golang",0.2,Bachelor,False,Data Analyst
+"cloud computing, algorithms, git, python, wireframing, react",1.8,Master,False,Software Engineer
+"sql, r, a/b testing, data visualization, networking",7.0,Bachelor,True,Data Scientist
+"adobe xd, html, figma, interaction design, css, penetration testing",1.7,High School,True,UX Designer
+"network security, vpn, routing, dhcp, firewalls, network monitoring, javascript, ci/cd, cloud computing",13.0,High School,False,Network Engineer
+"terraform, jenkins, docker, shell scripting, ci/cd, kubernetes, deep learning, agile, data visualization",1.2,Master,False,DevOps Engineer
+"data structures, c++, testing, wan",7.9,Master,False,Software Engineer
+"scrum, market research, agile, user stories, data cleaning, python, cryptography, security",9.5,Bachelor,False,Product Manager
+"leadership, market research, roadmapping, competitive analysis, presentation skills, accessibility, python",0.9,Master,True,Product Manager
+"microservices, java, python, c#, nosql, node.js, ruby, statistics, stakeholder management, sass, subnetting",5.5,Master,True,Backend Developer
+"wan, cisco, dns, subnetting, routing, troubleshooting, machine learning",10.2,High School,True,Network Engineer
+"docker, python, infrastructure as code, security, linux, networking, shell scripting, pandas, java",9.8,Bachelor,False,DevOps Engineer
+"golang, databases, microservices, php, rest apis, java, security, monitoring, responsive design, networking",3.6,PhD,True,Backend Developer
+"vulnerability assessment, security auditing, firewall, security compliance, incident response, security, angular, python, golang",8.1,PhD,False,Cybersecurity Analyst
+"project management, presentation skills, jira, stakeholder management, leadership, tcpip, agile, monitoring, caching",1.0,Bachelor,False,Product Manager
+"firewall, security auditing, incident response, vulnerability assessment, communication, sass, python",5.0,PhD,True,Cybersecurity Analyst
+"microservices, c#, node.js, authentication, caching, reporting",8.5,High School,True,Software Engineer
+"microservices, testing, object-oriented programming, c++, python, git, incident response",1.8,High School,True,Software Engineer
+"wan, lan, vpn, dns, sql, ci/cd, ethical hacking, jira",0.2,PhD,True,Network Engineer
+"java, php, sql, caching, routing, statistics",0.5,PhD,False,Backend Developer
+"information architecture, figma, user research, data structures, python, networking, security",9.3,High School,True,UX Designer
+"jest, react, redux, html, vue, webpack, angular, hypothesis testing, ethical hacking, power bi",3.7,Bachelor,False,Frontend Developer
+"sass, redux, vue, angular, webpack, security architecture, javascript, c++",6.7,Bachelor,False,Frontend Developer
+"security architecture, security auditing, penetration testing, siem, cryptography, risk management, threat intelligence, security, firewalls, azure",1.6,Bachelor,True,Cybersecurity Analyst
+"cloud computing, api development, c++, databases, a/b testing, ui frameworks",9.2,PhD,False,Software Engineer
+"user flows, html, accessibility, numpy, redux",5.1,PhD,True,Software Engineer
+"data cleaning, r, data mining, data modeling, excel, forecasting, tensorflow, testing",1.0,Bachelor,False,Data Analyst
+"jira, user stories, roadmapping, analytics, terraform",0.0,Bachelor,False,Product Manager
+"security architecture, security compliance, siem, incident response, security auditing, cryptography, firewall, ci/cd, scikit-learn",4.8,Bachelor,True,Cybersecurity Analyst
+"pytorch, python, sql, tensorflow, deep learning, network security",6.8,PhD,True,Data Scientist
+"javascript, vue, sass, interaction design, market research",2.6,PhD,False,Frontend Developer
+"python, php, nosql, graphql, java, authentication, ruby, wireframing, react, market research, api development",5.2,Master,False,Backend Developer
+"git, javascript, cloud computing, testing, c++, python, node.js, risk management, monitoring, security",9.2,Master,True,Software Engineer
+"firewall, cryptography, threat intelligence, incident response, penetration testing, security architecture, jest, dhcp",4.0,Bachelor,True,Cybersecurity Analyst
+"python, sql, statistics, r, machine learning, a/b testing, data visualization, rest apis, design thinking",11.8,PhD,True,Data Scientist
+"vpn, network monitoring, cisco, switching, lan, dns, power bi",0.6,Master,True,Network Engineer
+"node.js, golang, java, nosql, c#, databases, hypothesis testing",10.2,High School,False,Backend Developer
+"php, security, rest apis, figma",3.2,High School,True,Backend Developer
+"machine learning, big data, python, pytorch, scikit-learn, node.js, infrastructure as code, data modeling",7.1,Bachelor,False,Data Scientist
+"python, git, agile, c++, cloud computing, api development, debugging, statistics",13.1,High School,False,Software Engineer
+"angular, webpack, react, golang",0.4,High School,False,Frontend Developer
+"databases, debugging, javascript, algorithms, git, docker, deep learning, vpn, python",1.7,Master,False,Software Engineer
+"jest, typescript, sass, responsive design, html, javascript, accessibility, firewall, incident response, sql",6.8,Master,True,Frontend Developer
+"data visualization, python, business intelligence, data cleaning, object-oriented programming, penetration testing",0.6,High School,True,Data Analyst
+"golang, graphql, java, threat intelligence, cryptography, leadership, incident response",13.2,Bachelor,False,Backend Developer
+"browser compatibility, angular, responsive design, sass, jest, java",1.9,PhD,False,Frontend Developer
+"caching, security, c#, node.js, sql, jenkins, agile, responsive design, security",7.1,PhD,False,Backend Developer
+"responsive design, typescript, ui frameworks, webpack, javascript, python, dns, competitive analysis, pytorch",1.1,High School,True,Frontend Developer
+"golang, nosql, authentication, python, ruby, pandas, agile",5.1,PhD,True,UX Designer
+"rest apis, security, java, authentication, graphql, node.js, python, agile, dhcp",3.5,Master,True,Backend Developer
+"sql, r, machine learning, deep learning, adobe xd",1.5,Bachelor,True,Data Scientist
+"project management, competitive analysis, roadmapping, docker, figma, statistics",13.8,Bachelor,False,Product Manager
+"reporting, sql, data visualization, tableau, excel, user flows, visual design, networking, javascript",8.4,PhD,False,Data Analyst
+"java, debugging, databases, object-oriented programming, python, cloud computing, algorithms, ansible, wireframing, html",3.1,Master,True,Software Engineer
+"azure, terraform, ci/cd, infrastructure as code, incident response, javascript, databases",3.8,Master,False,Frontend Developer
+"ethical hacking, cryptography, security, risk management, redux",3.7,Master,True,Backend Developer
+"stakeholder management, communication, jira, scrum, competitive analysis, leadership, ruby",1.0,Bachelor,True,Product Manager
+"tableau, business intelligence, data modeling, r, sql, adobe xd, python",1.1,High School,True,Data Analyst
+"siem, penetration testing, ethical hacking, security architecture, incident response, firewall, adobe xd, sql, tableau",8.3,High School,False,Cybersecurity Analyst
+"vulnerability assessment, security, ethical hacking, security auditing, cryptography, firewall, usability testing",5.0,Bachelor,True,Cybersecurity Analyst
+"responsive design, ui frameworks, typescript, html, monitoring, jenkins",0.5,PhD,True,Frontend Developer
+"wan, dhcp, routing, firewalls, stakeholder management, visual design, microservices",11.9,High School,False,Network Engineer
+"agile, git, java, vpn, responsive design, kubernetes",0.9,High School,False,Software Engineer
+"cloud computing, c++, api development, git, user flows, redux, c#, jest",9.3,Bachelor,False,Software Engineer
+"authentication, graphql, golang, caching, security, rest apis, networking, threat intelligence",7.3,High School,False,Backend Developer
+"golang, microservices, node.js, nosql, java, php, presentation skills, product strategy, firewall, user flows",13.8,High School,True,Backend Developer
+"angular, css, typescript, accessibility, html, shell scripting, data visualization, data cleaning",1.1,High School,False,Frontend Developer
+"lan, cisco, dhcp, switching, troubleshooting, browser compatibility, infrastructure as code, ci/cd",13.3,Bachelor,True,Network Engineer
+"python, deep learning, numpy, tensorflow, r, ethical hacking, shell scripting",11.0,High School,False,Data Scientist
+"prototyping, css, interaction design, html, accessibility, infrastructure as code",5.4,High School,False,UX Designer
+"data modeling, excel, data cleaning, reporting, product strategy, sketch",9.4,PhD,True,Data Analyst
+"user research, visual design, interaction design, sketch, usability testing, information architecture, redux, cryptography, a/b testing, sql",2.3,High School,False,UX Designer
+"dns, vpn, routing, network security, troubleshooting, networking, firewalls, object-oriented programming, figma",11.4,High School,False,Network Engineer
+"dashboards, python, reporting, statistics, data modeling, product strategy, information architecture, microservices, security architecture",8.3,PhD,True,Data Analyst
+"microservices, graphql, authentication, node.js, golang, databases, analytics, competitive analysis, redux, scikit-learn",6.0,Bachelor,True,Backend Developer
+"python, kubernetes, aws, azure, docker, css, microservices, user stories",1.8,PhD,True,DevOps Engineer
+"competitive analysis, scrum, a/b testing, roadmapping, product strategy, leadership, ansible, redux, python",2.6,Bachelor,False,Product Manager
+"machine learning, deep learning, hypothesis testing, pytorch, information architecture, ui frameworks, html, monitoring",4.1,PhD,True,Data Scientist
+"r, excel, reporting, security, prototyping, css",6.8,Bachelor,False,Data Analyst
+"algorithms, cloud computing, debugging, databases, c++, data structures, testing, figma, user research, azure, data mining",10.5,Bachelor,True,Software Engineer
+"sql, rest apis, nosql, visual design, monitoring, javascript",3.2,PhD,True,Backend Developer
+"authentication, rest apis, security, security, analytics, excel, accessibility",5.9,High School,False,Backend Developer
+"responsive design, webpack, html, sass, a/b testing, dashboards, pandas, networking",8.4,Bachelor,False,Frontend Developer
+"market research, leadership, presentation skills, product strategy, data cleaning, prototyping",4.7,PhD,False,Product Manager
+"wan, routing, tcpip, subnetting, network monitoring, dhcp, network security, pandas",3.3,Master,False,Network Engineer
+"cisco, dns, networking, switching, wan, aws, sql",12.3,PhD,True,Network Engineer
+"network monitoring, lan, network security, dns, cisco, databases",6.5,PhD,True,Network Engineer
+"data modeling, r, tableau, dashboards, data visualization, nosql, agile, linux",14.2,High School,False,Data Analyst
+"firewalls, subnetting, lan, network security, network monitoring, dns, switching, security auditing, ethical hacking, algorithms, shell scripting",8.2,PhD,False,Network Engineer
+"r, python, statistics, hypothesis testing, numpy, angular, browser compatibility",14.8,High School,False,Data Scientist
+"java, golang, php, security, dns, tensorflow",13.0,Bachelor,False,Backend Developer
+"incident response, penetration testing, siem, firewall, ethical hacking, cryptography, ui frameworks",2.3,High School,True,Cybersecurity Analyst
+"reporting, forecasting, dashboards, algorithms, infrastructure as code, tcpip, docker",1.0,High School,True,Data Analyst
+"authentication, graphql, python, golang, security, python, vue, user flows",5.8,High School,False,Backend Developer
+"data modeling, r, data mining, sql, vpn, routing, competitive analysis",8.6,PhD,False,Data Analyst
+"tableau, data cleaning, statistics, user research",0.6,PhD,True,Data Analyst
+"agile, java, algorithms, javascript, data structures, presentation skills, vue",1.5,Master,True,Software Engineer
+"lan, troubleshooting, network monitoring, routing, penetration testing, incident response",5.8,High School,False,Network Engineer
+"threat intelligence, penetration testing, security auditing, cryptography, firewall, siem, vulnerability assessment, microservices, testing, agile, product strategy",1.8,High School,False,Cybersecurity Analyst
+"azure, networking, linux, forecasting, machine learning",8.3,Master,False,DevOps Engineer
+"roadmapping, leadership, product strategy, project management, jira, presentation skills, stakeholder management, python",0.9,PhD,True,Product Manager
+"market research, stakeholder management, communication, agile, leadership, presentation skills, jest, data structures, terraform, wireframing",13.7,Bachelor,True,Product Manager
+"tableau, data mining, data visualization, data cleaning, power bi, sass",9.7,High School,True,Data Analyst
+"typescript, jest, responsive design, browser compatibility, accessibility, react, communication",9.0,Bachelor,True,Frontend Developer
+"siem, security auditing, incident response, firewall, python, statistics, pandas, browser compatibility",1.9,PhD,False,Cybersecurity Analyst
+"vulnerability assessment, security, security auditing, security compliance, ethical hacking, threat intelligence, siem, excel",3.0,Bachelor,True,Cybersecurity Analyst
+"r, hypothesis testing, pandas, statistics, infrastructure as code",9.4,Master,False,Data Scientist
+"python, algorithms, git, testing, data structures, debugging, firewall",14.4,Bachelor,False,Software Engineer
+"terraform, azure, security, shell scripting, infrastructure as code, linux, user stories",10.0,PhD,False,DevOps Engineer
+"c#, caching, node.js, java, security, php, sql, a/b testing, testing, ethical hacking",4.8,PhD,False,Backend Developer
+"machine learning, python, statistics, sql, pytorch, shell scripting, security, javascript",8.1,Master,False,Data Scientist
+"ui frameworks, typescript, redux, kubernetes, object-oriented programming",10.0,PhD,False,Frontend Developer
+"routing, vpn, cisco, firewalls, subnetting, troubleshooting, c#, penetration testing",6.3,High School,True,Network Engineer
+"c++, data structures, databases, algorithms, object-oriented programming, javascript, lan, machine learning",3.9,PhD,False,Software Engineer
+"dhcp, network monitoring, dns, firewalls, network security, graphql, ui frameworks",9.7,High School,False,Network Engineer
+"caching, databases, php, ruby, data cleaning",0.0,High School,True,Backend Developer
+"penetration testing, cryptography, security, incident response, siem, threat intelligence, reporting, html",11.4,PhD,False,Cybersecurity Analyst
+"user stories, a/b testing, agile, leadership, css, databases",9.7,PhD,True,Product Manager
+"responsive design, typescript, html, webpack, react, angular, sass, user stories, wan, figma",1.8,Master,False,Frontend Developer
+"forecasting, business intelligence, data cleaning, a/b testing, ci/cd, security, user flows",0.7,PhD,True,Data Analyst
+"ui frameworks, sass, css, html, react, vue, tensorflow, python",4.2,Bachelor,True,Frontend Developer
+"vulnerability assessment, siem, security compliance, ethical hacking, cisco",10.0,Master,False,Cybersecurity Analyst
+"linux, infrastructure as code, docker, adobe xd, security, figma",1.0,PhD,True,DevOps Engineer
+"sketch, css, accessibility, information architecture, sql",6.6,High School,False,UX Designer
+"ansible, ci/cd, kubernetes, aws, networking, security, jenkins, machine learning, analytics, tcpip",8.5,High School,True,DevOps Engineer
+"product strategy, presentation skills, analytics, roadmapping, leadership, usability testing, ethical hacking, security",1.0,High School,False,Product Manager
+"product strategy, scrum, user stories, agile, penetration testing",0.1,Master,False,Product Manager
+"usability testing, prototyping, information architecture, sketch, redux",4.1,Master,True,UX Designer
+"interaction design, sketch, css, user flows, visual design, usability testing, prototyping, risk management, python, numpy, troubleshooting",4.5,PhD,False,UX Designer
+"golang, databases, security, graphql, cryptography, competitive analysis",1.2,High School,True,Backend Developer
+"docker, jenkins, azure, monitoring, java, firewall, statistics",10.2,PhD,True,DevOps Engineer
+"roadmapping, user stories, a/b testing, scrum, webpack",1.5,Bachelor,False,Product Manager
+"pandas, python, machine learning, databases, statistics",0.8,High School,True,Data Scientist
+"ci/cd, kubernetes, infrastructure as code, usability testing, responsive design, security",1.6,High School,True,DevOps Engineer
+"css, angular, responsive design, browser compatibility, pandas, ci/cd, pytorch, roadmapping",6.8,PhD,False,Frontend Developer
+"information architecture, user research, design thinking, sass, data modeling",4.6,Bachelor,False,UX Designer
+"networking, ansible, azure, docker, python, risk management, microservices, javascript",8.1,PhD,False,DevOps Engineer
+"risk management, vulnerability assessment, penetration testing, security auditing, security",0.8,Master,True,Cybersecurity Analyst
+"databases, nosql, python, ruby, javascript, lan",4.5,High School,True,Backend Developer
+"communication, roadmapping, project management, scrum, user stories, presentation skills, data visualization",10.4,Bachelor,True,Product Manager
+"typescript, accessibility, jest, webpack, security, graphql",9.2,Master,True,Frontend Developer
+"project management, market research, presentation skills, java",5.9,Master,True,Product Manager
+"hypothesis testing, statistics, data visualization, cryptography",2.4,PhD,True,Data Scientist
+"security architecture, ethical hacking, cryptography, threat intelligence, security auditing, networking, communication, machine learning",8.4,Master,True,Cybersecurity Analyst
+"network monitoring, dhcp, subnetting, lan, routing, databases, figma, jenkins",1.2,High School,True,Network Engineer
+"machine learning, sql, scikit-learn, presentation skills, excel, databases, data cleaning",7.2,High School,False,Data Scientist
+"kubernetes, ansible, python, monitoring, terraform, jenkins, linux, information architecture",1.3,Bachelor,False,DevOps Engineer
+"databases, python, ruby, microservices, big data",6.2,High School,True,Backend Developer
+"python, security, jenkins, infrastructure as code, ci/cd, kubernetes, monitoring, penetration testing, dashboards",9.3,High School,False,DevOps Engineer
+"scikit-learn, pandas, hypothesis testing, networking, git, java",3.3,High School,True,Data Scientist
+"ruby, authentication, caching, graphql, c#, scrum, market research, machine learning",12.9,Bachelor,True,Backend Developer
+"microservices, algorithms, agile, cloud computing, debugging, c++, python, sql, redux",2.5,PhD,False,Software Engineer
+"databases, caching, java, authentication, security, dns, network security, switching, machine learning",3.1,Bachelor,False,Backend Developer
+"databases, caching, rest apis, graphql, user flows, security, typescript",2.5,Master,False,Backend Developer
+"prototyping, sketch, design thinking, adobe xd, accessibility, wireframing, communication, networking, php, leadership",6.2,Bachelor,False,UX Designer
+"tableau, business intelligence, sql, forecasting, python, css",0.7,High School,False,Data Analyst
+"statistics, numpy, sql, a/b testing, big data, tensorflow, pytorch, databases, microservices",2.8,Bachelor,True,Data Scientist
+"ci/cd, linux, azure, kubernetes, docker, ui frameworks, statistics, prototyping, data visualization",10.0,PhD,True,DevOps Engineer
+"docker, azure, jenkins, networking, monitoring, terraform, python, agile",6.7,Master,True,DevOps Engineer
+"siem, incident response, firewall, shell scripting, responsive design",7.2,High School,False,Cybersecurity Analyst
+"siem, security architecture, penetration testing, ethical hacking, cryptography, threat intelligence, java, pytorch, excel",1.7,Bachelor,False,Cybersecurity Analyst
+"jenkins, linux, ci/cd, azure, security, terraform, security, microservices, penetration testing, lan",7.3,Master,True,DevOps Engineer
+"typescript, html, jest, webpack, javascript, reporting",0.5,Master,True,Frontend Developer
+"siem, penetration testing, ethical hacking, security, security compliance, threat intelligence, numpy",4.6,Bachelor,True,Cybersecurity Analyst
+"security, networking, aws, shell scripting, python, agile, sass",7.4,High School,True,DevOps Engineer
+"c#, php, node.js, rest apis, debugging",2.4,PhD,False,Backend Developer
+"redux, jest, css, security, big data",1.4,Bachelor,False,Frontend Developer
+"threat intelligence, cryptography, siem, security compliance, security architecture, security, kubernetes, ci/cd, networking",11.0,Master,True,Cybersecurity Analyst
+"user research, figma, usability testing, prototyping, presentation skills",1.4,High School,True,UX Designer
+"c++, cloud computing, algorithms, testing, data modeling, routing, typescript",8.5,Bachelor,False,Software Engineer
+"vulnerability assessment, incident response, siem, security auditing, databases, user flows, sql, browser compatibility",8.6,High School,True,Cybersecurity Analyst
+"ui frameworks, jest, vue, market research",7.8,Bachelor,True,Frontend Developer
+"visual design, design thinking, accessibility, interaction design, html, data visualization, kubernetes",3.4,High School,True,UX Designer
+"siem, security auditing, security, penetration testing, docker, leadership, browser compatibility",14.8,PhD,False,Cybersecurity Analyst
+"jest, redux, sass, infrastructure as code, data visualization",9.8,PhD,True,Frontend Developer
+"monitoring, aws, infrastructure as code, jenkins, business intelligence, scikit-learn, dns, angular",4.3,High School,True,DevOps Engineer
+"html, accessibility, wireframing, webpack, git, lan",0.0,Master,True,UX Designer
+"golang, authentication, microservices, webpack, dhcp",2.8,High School,True,Backend Developer
+"deep learning, r, python, numpy, presentation skills",4.7,High School,True,Data Scientist
+"scikit-learn, hypothesis testing, numpy, algorithms",6.4,High School,True,Data Scientist
+"competitive analysis, roadmapping, stakeholder management, agile, firewall",10.0,Master,False,Product Manager
+"testing, git, java, javascript, object-oriented programming, data structures, visual design, incident response",13.3,Master,True,Software Engineer
+"wireframing, html, user flows, sketch, visual design, adobe xd, microservices, r",8.4,Bachelor,False,UX Designer
+"azure, ci/cd, ansible, python, infrastructure as code, vue, javascript, usability testing, scrum",9.4,Master,False,DevOps Engineer
+"data modeling, r, statistics, sql, tableau, data mining, business intelligence, figma, nosql, wan, wireframing",7.5,Master,True,Data Analyst
+"rest apis, golang, caching, authentication, dashboards, shell scripting",13.3,Bachelor,False,Backend Developer
+"typescript, jest, sass, javascript, react, browser compatibility, vue, cloud computing, hypothesis testing, databases",8.6,PhD,False,Frontend Developer
+"html, ui frameworks, css, angular, webpack, accessibility, r, javascript, data modeling",9.2,PhD,False,Frontend Developer
+"leadership, user stories, scrum, agile, project management, c#, node.js",7.4,Master,True,Product Manager
+"monitoring, shell scripting, kubernetes, docker, jenkins, ansible, cisco, caching",0.3,High School,False,DevOps Engineer
+"figma, css, html, interaction design, design thinking, infrastructure as code, jira, threat intelligence",9.3,PhD,True,UX Designer
+"monitoring, jenkins, ci/cd, microservices, ruby",10.8,Master,True,DevOps Engineer
+"hypothesis testing, statistics, machine learning, prototyping, responsive design",9.9,PhD,True,Data Scientist
+"vulnerability assessment, siem, security auditing, wireframing, accessibility, big data",12.9,Master,True,Cybersecurity Analyst
+"java, php, ruby, databases, security, graphql, microservices, numpy",2.4,PhD,False,Backend Developer
+"network monitoring, firewalls, dhcp, switching, lan, dns, siem, javascript, security, python",3.0,Bachelor,False,Network Engineer
+"pytorch, numpy, big data, deep learning, sql, data visualization, a/b testing, caching, subnetting, project management, user stories",10.7,High School,True,Data Scientist
+"python, microservices, c#, rest apis, java, nosql, algorithms, git",6.7,High School,False,Backend Developer
+"jest, ui frameworks, typescript, communication, security auditing, sql",0.3,Master,False,Frontend Developer
+"object-oriented programming, algorithms, databases, c++, data structures, api development, tableau, a/b testing, data modeling",4.5,PhD,True,Software Engineer
+"statistics, excel, data cleaning, data mining, data modeling, dashboards, stakeholder management",3.0,Master,True,Data Analyst
+"caching, java, rest apis, security compliance, network monitoring",4.3,PhD,False,Backend Developer
+"typescript, jest, javascript, redux, sass, react, html, sketch",1.5,Bachelor,False,Frontend Developer
+"javascript, api development, java, agile, c++, firewall",8.1,High School,True,Software Engineer
+"dhcp, switching, networking, cisco, vulnerability assessment",0.1,Master,True,Network Engineer
+"firewall, risk management, incident response, threat intelligence, python, docker, competitive analysis, cisco",5.8,Bachelor,False,Cybersecurity Analyst
+"jenkins, kubernetes, azure, ansible, infrastructure as code, roadmapping",6.3,High School,False,DevOps Engineer
+"microservices, cloud computing, python, leadership, figma",0.6,Master,True,UX Designer
+"sql, a/b testing, scikit-learn, big data, pandas, hypothesis testing, machine learning, security, subnetting, responsive design",9.2,High School,False,Data Scientist
+"machine learning, big data, numpy, statistics, pandas, information architecture, vulnerability assessment, redux, routing",0.6,PhD,True,Data Scientist
+"r, scikit-learn, tensorflow, sql, pytorch, security, dhcp, vue",0.4,Bachelor,False,Data Scientist
+"monitoring, aws, linux, python, infrastructure as code, java, security compliance, c++, big data",8.9,Bachelor,True,DevOps Engineer
+"git, python, algorithms, testing, c++, prototyping, html, user research",0.3,Bachelor,False,Software Engineer
+"wireframing, user flows, visual design, usability testing, accessibility, adobe xd, design thinking, subnetting, typescript, php",0.9,Bachelor,True,UX Designer
+"switching, network security, vpn, subnetting, dhcp, wan, accessibility, vulnerability assessment, sql, reporting",1.2,Bachelor,False,Network Engineer
+"tcpip, dns, switching, network security, subnetting, cisco, threat intelligence, risk management, sql, sass",7.0,Bachelor,False,Network Engineer
+"php, c#, security, python, data visualization, jira, python",3.4,High School,True,Backend Developer
+"interaction design, sketch, information architecture, adobe xd, html, usability testing, wireframing, golang, kubernetes, forecasting",2.7,Bachelor,False,UX Designer
+"security, docker, shell scripting, html, network security",0.4,PhD,False,DevOps Engineer
+"git, debugging, javascript, testing, data structures, c++, incident response, adobe xd, threat intelligence, siem",8.2,Master,True,Software Engineer
+"usability testing, information architecture, figma, sketch, interaction design, user research, leadership",0.2,Master,True,UX Designer
+"data structures, databases, agile, java, object-oriented programming, c++, security, html, accessibility, ethical hacking",14.3,High School,True,Software Engineer
+"caching, java, golang, authentication, python, azure, python, css",7.6,PhD,False,Backend Developer
+"pytorch, a/b testing, pandas, r, big data, sql, scikit-learn, angular, presentation skills, jira, interaction design",2.0,High School,True,Data Scientist
+"siem, security architecture, incident response, threat intelligence, vulnerability assessment, security auditing, monitoring, git, presentation skills",0.1,High School,True,Cybersecurity Analyst
+"ci/cd, python, shell scripting, aws, javascript, nosql",7.6,Bachelor,True,DevOps Engineer
+"algorithms, javascript, debugging, object-oriented programming, java, data structures, python, tensorflow",9.2,High School,False,Software Engineer
+"css, react, vue, market research",14.8,PhD,True,Frontend Developer
+"node.js, ruby, caching, microservices, python, risk management, microservices",4.4,Bachelor,True,Backend Developer
+"data cleaning, reporting, sql, python, dns, leadership",6.4,Bachelor,False,Data Analyst
+"php, databases, rest apis, user flows, scikit-learn, network security, market research",11.9,Master,True,Backend Developer
+"java, c#, sql, microservices, security, ruby, analytics, python",6.7,Bachelor,True,Backend Developer
+"tableau, power bi, python, data modeling, microservices, responsive design, react",0.6,High School,False,Data Analyst
+"big data, hypothesis testing, pandas, networking, risk management, tableau",3.8,PhD,False,Data Scientist
+"data modeling, forecasting, r, python, data cleaning, tensorflow, javascript",8.6,PhD,False,Data Analyst
+"excel, data modeling, data cleaning, statistics, rest apis, javascript, jira, security",0.1,Master,True,Data Analyst
+"ui frameworks, javascript, vue, jest, typescript, react, accessibility",4.8,PhD,True,Frontend Developer
+"git, databases, javascript, scrum",9.4,Master,False,Software Engineer
+"data cleaning, sql, data visualization, statistics, reporting, python, hypothesis testing",8.8,PhD,False,Data Analyst
+"webpack, accessibility, redux, html, vue, sass, jest, numpy",11.4,High School,True,Frontend Developer
+"lan, dns, networking, r, php, forecasting, scikit-learn",8.9,Master,True,Network Engineer
+"javascript, microservices, object-oriented programming, algorithms, databases, testing, siem, caching",4.3,PhD,False,Software Engineer
+"vulnerability assessment, firewall, incident response, penetration testing, siem, security, security architecture, troubleshooting, sql, data visualization",1.3,PhD,True,Cybersecurity Analyst
+"css, sketch, usability testing, visual design, prototyping, vue, competitive analysis, terraform",13.3,Bachelor,True,UX Designer
+"webpack, accessibility, redux, python, object-oriented programming, agile",8.7,Master,True,Frontend Developer
+"tcpip, vpn, networking, firewalls, dns, databases",3.6,Bachelor,True,Network Engineer
+"deep learning, hypothesis testing, a/b testing, visual design, statistics, risk management",8.6,Bachelor,True,Data Scientist
+"reporting, statistics, data mining, python, dashboards, security, cisco",9.2,PhD,False,Data Analyst
+"power bi, data visualization, business intelligence, dashboards, javascript",2.0,High School,False,Data Analyst
+"security, security architecture, vulnerability assessment, cryptography, sql, interaction design, scikit-learn",1.1,PhD,True,Cybersecurity Analyst
+"stakeholder management, project management, scrum, competitive analysis, roadmapping, css, big data, information architecture",1.2,Master,False,Product Manager
+"scrum, agile, roadmapping, user stories, presentation skills, market research, accessibility",5.1,Master,True,Product Manager
+"excel, r, forecasting, nosql",11.7,Bachelor,True,Data Analyst
+"scrum, communication, agile, wan, data visualization, big data",10.7,PhD,True,Product Manager
+"golang, graphql, c#, numpy, html, incident response",10.8,Master,True,Backend Developer
+"sass, browser compatibility, vue, css, accessibility, react, reporting, golang, python, leadership",14.8,Master,True,Frontend Developer
+"scrum, jira, leadership, competitive analysis, a/b testing, roadmapping, communication, azure",9.4,PhD,True,Product Manager
+"networking, shell scripting, docker, aws, linux, monitoring, roadmapping",0.2,PhD,False,DevOps Engineer
+"css, html, react, typescript, browser compatibility, data structures, scrum",14.5,Bachelor,False,Frontend Developer
+"ruby, c#, nosql, security, project management, infrastructure as code, ui frameworks, aws",3.6,High School,True,Backend Developer
+"a/b testing, user stories, agile, presentation skills, project management, interaction design, security, python, cryptography",3.9,High School,True,Product Manager
+"jira, leadership, competitive analysis, analytics, roadmapping, kubernetes, deep learning, dhcp",9.8,PhD,True,Product Manager
+"azure, terraform, jenkins, shell scripting, figma",10.9,Master,False,DevOps Engineer
+"microservices, databases, c#, roadmapping, databases",5.1,PhD,True,Backend Developer
+"security, azure, aws, kubernetes, networking, data structures, stakeholder management",3.6,High School,False,DevOps Engineer
+"agile, debugging, databases, cloud computing, javascript, algorithms, dns, infrastructure as code, security compliance",1.5,PhD,False,Software Engineer
+"reporting, sql, tableau, excel, data visualization, data cleaning, html, project management, caching, python",10.4,PhD,True,Data Analyst
+"data modeling, reporting, data mining, forecasting, sql, excel, linux",0.8,PhD,False,Data Analyst
+"forecasting, reporting, business intelligence, figma",1.9,PhD,True,Data Analyst
+"sql, data visualization, deep learning, troubleshooting",14.5,High School,True,Data Scientist
+"statistics, data visualization, power bi, data cleaning, reporting, tableau, debugging",3.4,High School,True,Data Analyst
+"rest apis, python, security, golang, jest, debugging, agile",12.8,High School,True,Backend Developer
+"api development, databases, agile, python",6.6,PhD,True,Software Engineer
+"c#, authentication, security, user research, monitoring, routing",8.3,Master,True,Backend Developer
+"scikit-learn, hypothesis testing, numpy, big data, pandas, project management, design thinking",3.7,Bachelor,True,Data Scientist
+"cryptography, penetration testing, ethical hacking, testing, user research, microservices",0.5,Bachelor,True,Cybersecurity Analyst
+"sql, hypothesis testing, pytorch, python, pandas, a/b testing, r, c#",12.8,Master,False,Data Scientist
+"redux, accessibility, jest, responsive design, numpy, python",1.3,Bachelor,True,Frontend Developer
+"algorithms, c++, microservices, data structures, debugging, java, scikit-learn, kubernetes",3.0,Master,True,Software Engineer
+"subnetting, lan, routing, troubleshooting, usability testing, angular, prototyping, figma",13.3,Master,False,Network Engineer
+"market research, user stories, presentation skills, vue",9.8,Master,False,Frontend Developer
+"vpn, lan, firewalls, adobe xd, html",2.7,High School,True,Network Engineer
+"r, power bi, reporting, communication, prototyping, css",10.2,Bachelor,True,Data Analyst
+"design thinking, prototyping, visual design, user flows, sketch, linux, deep learning, tensorflow",0.3,Bachelor,False,UX Designer
+"testing, data structures, algorithms, databases, c++, business intelligence, a/b testing, nosql, security auditing",14.2,PhD,False,Software Engineer
+"ci/cd, kubernetes, linux, networking, docker, python, infrastructure as code, statistics",8.0,Master,True,DevOps Engineer
+"usability testing, wireframing, figma, html, user flows, adobe xd, market research",14.5,Bachelor,False,UX Designer
+"linux, aws, security, python, azure, shell scripting, react, statistics, tableau, databases",5.3,Master,True,DevOps Engineer
+"ethical hacking, security auditing, security compliance, css",1.7,Master,False,Cybersecurity Analyst
+"machine learning, a/b testing, pandas, object-oriented programming, sql, jira",11.9,Master,True,Data Scientist
+"responsive design, react, ui frameworks, typescript, jest, javascript, numpy, accessibility, adobe xd",3.8,PhD,False,Frontend Developer
+"data cleaning, business intelligence, data modeling, dashboards, sql, rest apis",2.0,High School,False,Data Analyst
+"linux, kubernetes, security, python, monitoring, terraform, git",0.6,High School,True,DevOps Engineer
+"pandas, deep learning, numpy, ansible",3.8,PhD,False,Data Scientist
+"nosql, c#, php, graphql, data visualization",6.7,Master,False,Backend Developer
+"tensorflow, hypothesis testing, pandas, sql, golang, prototyping, data structures, rest apis",1.8,Master,True,Data Scientist
+"visual design, wireframing, adobe xd, sketch, user flows, cryptography, jest, infrastructure as code, java",0.2,Bachelor,False,UX Designer
+"subnetting, routing, switching, angular",3.6,PhD,False,Network Engineer
+"forecasting, business intelligence, sql, networking, statistics",8.5,High School,False,Data Analyst
+"redux, javascript, accessibility, html, browser compatibility, switching, user flows, wan",6.9,High School,False,Frontend Developer
+"vue, responsive design, html, ui frameworks, react, typescript, browser compatibility, data mining",3.0,PhD,False,Network Engineer
+"databases, java, python, c++, git, security, security compliance",5.9,Master,False,Software Engineer
+"python, git, debugging, databases, javascript, network security, visual design",3.6,PhD,False,Software Engineer
+"visual design, sketch, interaction design, network security, c++, product strategy, tcpip",7.9,Master,True,UX Designer
+"reporting, data mining, power bi, python, dashboards, statistics, git, a/b testing, aws, html",0.6,Bachelor,False,Data Analyst
+"information architecture, prototyping, design thinking, html, user research, aws, business intelligence, risk management, dhcp",10.3,Master,True,UX Designer
+"debugging, api development, cloud computing, dhcp",12.4,High School,False,Software Engineer
+"security architecture, vulnerability assessment, security auditing, ethical hacking, firewall, excel, agile, cloud computing, machine learning",14.7,Master,True,Cybersecurity Analyst
+"azure, jenkins, networking, agile, ethical hacking",8.1,High School,False,DevOps Engineer
+"excel, data mining, statistics, data cleaning, nosql, python, terraform",9.1,PhD,False,Data Analyst
+"network monitoring, dns, firewalls, wan, routing, troubleshooting, dhcp, shell scripting, monitoring, big data, ci/cd",6.2,Master,True,Network Engineer
+"security, sql, caching, graphql, authentication, node.js, java, network security, switching, user flows",9.4,PhD,True,Backend Developer
+"user stories, analytics, agile, scrum, stakeholder management, java, user research, security, data cleaning",12.9,High School,True,Product Manager
+"jest, vue, accessibility, html, typescript, redux, javascript, security auditing, r, roadmapping, debugging",1.0,PhD,True,Frontend Developer
+"testing, c++, javascript, java, ui frameworks, figma",12.9,Master,True,Software Engineer
+"analytics, a/b testing, presentation skills, roadmapping, data mining, infrastructure as code, security architecture",4.6,High School,False,Product Manager
+"analytics, communication, leadership, jira, a/b testing, javascript",14.9,High School,False,Product Manager
+"api development, agile, object-oriented programming, java, python, analytics, angular, hypothesis testing",10.6,Bachelor,True,Software Engineer
+"terraform, azure, infrastructure as code, data cleaning, authentication, adobe xd, sql",1.1,Bachelor,False,DevOps Engineer
+"security auditing, incident response, penetration testing, security architecture, cryptography, threat intelligence, firewall, infrastructure as code",2.5,Bachelor,False,Cybersecurity Analyst
+"linux, docker, python, ansible, monitoring, infrastructure as code, design thinking, vue, sql, cisco",6.8,Bachelor,True,DevOps Engineer
+"javascript, accessibility, webpack, browser compatibility, html, react, caching",13.9,PhD,True,Frontend Developer
+"ethical hacking, security compliance, security auditing, siem, cryptography, design thinking, data modeling, javascript, sql",6.6,High School,False,Cybersecurity Analyst
+"microservices, java, testing, javascript, debugging, object-oriented programming, security architecture",6.3,Master,True,Software Engineer
+"siem, ethical hacking, security, firewall, cryptography, cloud computing",10.0,PhD,True,Cybersecurity Analyst
+"c#, microservices, ruby, php, node.js, authentication, rest apis, sass, statistics, reporting, redux",5.0,Bachelor,True,Backend Developer
+"accessibility, sketch, user research, prototyping, vpn",11.8,Master,False,UX Designer
+"data visualization, statistics, data cleaning, business intelligence, forecasting, tableau, dashboards, jenkins, debugging",1.5,PhD,False,Data Analyst
+"tableau, business intelligence, r, power bi, reporting, python, data modeling, dns, pandas, infrastructure as code, a/b testing",2.5,Master,False,Data Analyst
+"network monitoring, dhcp, switching, firewalls, vpn, lan, cisco, css, excel, security auditing",1.2,Bachelor,True,Network Engineer
+"wan, firewalls, tcpip, dns, linux, python, information architecture, threat intelligence",10.2,PhD,False,Network Engineer
+"c++, algorithms, testing, competitive analysis, data modeling, troubleshooting, market research",12.3,Master,True,Software Engineer
+"ci/cd, terraform, monitoring, ansible, security, browser compatibility, security auditing, wan",1.0,High School,True,DevOps Engineer
+"golang, databases, authentication, rest apis, adobe xd, jest, siem, a/b testing",13.1,Bachelor,True,Product Manager
+"azure, python, aws, kubernetes, ci/cd, r",1.6,High School,False,DevOps Engineer
+"risk management, threat intelligence, security, design thinking, analytics, agile",6.7,High School,True,Cybersecurity Analyst
+"algorithms, testing, python, authentication",4.9,Master,True,Software Engineer
+"react, webpack, browser compatibility, redux, azure, scikit-learn, cisco, shell scripting",4.6,Master,True,DevOps Engineer
+"ethical hacking, cryptography, threat intelligence, information architecture, sql, business intelligence, visual design",8.5,High School,True,Cybersecurity Analyst
+"ethical hacking, incident response, firewall, security architecture, threat intelligence, security, sketch",1.9,Master,False,Cybersecurity Analyst
+"firewall, threat intelligence, cryptography, siem, kubernetes, jenkins, forecasting, big data",3.6,High School,False,Cybersecurity Analyst
+"machine learning, scikit-learn, a/b testing, vulnerability assessment, security, design thinking",9.5,High School,False,Data Scientist
+"docker, security, aws, jenkins, azure, css, databases, debugging, competitive analysis",4.6,PhD,False,DevOps Engineer
+"accessibility, sass, html, javascript, angular, cloud computing, agile",5.0,PhD,True,Frontend Developer
+"java, databases, microservices, data structures, algorithms, forecasting",4.5,Bachelor,True,Software Engineer
+"nosql, c#, node.js, python, r, troubleshooting, aws",9.4,Master,False,Backend Developer
+"typescript, ui frameworks, vue, sass, react, accessibility, network monitoring, sql",7.7,Master,False,Frontend Developer
+"accessibility, user research, interaction design, figma, html, design thinking, css, communication, scikit-learn",3.0,PhD,True,UX Designer
+"vpn, networking, dns, firewalls, wan, subnetting, rest apis",11.5,High School,True,Network Engineer
+"power bi, data cleaning, statistics, tableau, forecasting, dashboards, monitoring, a/b testing",1.8,Master,True,Data Analyst
+"jira, project management, product strategy, stakeholder management, leadership, scrum, a/b testing, networking, user research",2.9,High School,True,Product Manager
+"databases, authentication, golang, ruby, python, sql, graphql, cryptography, c++, javascript, penetration testing",6.8,Master,False,Backend Developer
+"browser compatibility, jest, javascript, ui frameworks, sass, user stories, interaction design",14.1,Master,True,Frontend Developer
+"ethical hacking, security architecture, cryptography, terraform, subnetting",4.7,High School,False,Cybersecurity Analyst
+"react, browser compatibility, webpack, project management",10.1,Master,False,Frontend Developer
+"tableau, excel, forecasting, r, responsive design",1.5,Master,True,Data Analyst
+"shell scripting, aws, kubernetes, linux, monitoring, docker, data structures, cryptography, security compliance",8.7,Master,True,DevOps Engineer
+"security, caching, golang, sql, html, hypothesis testing",14.7,Bachelor,False,Backend Developer
+"communication, user stories, a/b testing, stakeholder management, roadmapping, graphql, data mining, scikit-learn",8.8,Master,False,Product Manager
+"a/b testing, scikit-learn, statistics, data visualization, pandas, r, deep learning, sass, project management, ansible, communication",4.3,Master,True,Data Scientist
+"nosql, golang, c#, python, php, ruby, node.js, css, pandas, ci/cd",8.2,PhD,False,Backend Developer
+"information architecture, prototyping, adobe xd, vpn, agile, market research, linux",2.2,Master,True,UX Designer
+"market research, jira, agile, a/b testing, product strategy, numpy, html",9.3,Master,True,Product Manager
+"hypothesis testing, pytorch, a/b testing, r, deep learning, sketch, security compliance",14.1,Master,False,Data Scientist
+"golang, rest apis, java, node.js, sql, caching, user research",12.7,Master,True,Backend Developer
+"microservices, algorithms, agile, golang, azure",4.8,PhD,True,Software Engineer
+"javascript, react, vue, jest, network security, machine learning",1.4,High School,True,Frontend Developer
+"wan, switching, network security, lan, troubleshooting, subnetting, product strategy, adobe xd, javascript",4.4,Master,True,Network Engineer
+"scikit-learn, r, python, statistics, pytorch, networking, wan, leadership",4.7,PhD,False,Data Scientist
+"ruby, graphql, golang, python, business intelligence",1.5,Master,True,Backend Developer
+"agile, roadmapping, a/b testing, presentation skills, stakeholder management, business intelligence, linux",2.0,Master,True,Product Manager
+"rest apis, nosql, java, security compliance, terraform",14.9,Bachelor,False,Backend Developer
+"tableau, r, sql, python, dashboards, data cleaning, lan, security",6.0,PhD,True,Data Analyst
+"a/b testing, data visualization, hypothesis testing, statistics, scikit-learn, angular, incident response, data mining, dhcp",1.2,PhD,True,Data Scientist
+"security compliance, threat intelligence, incident response, vulnerability assessment, cryptography, penetration testing, testing, stakeholder management, statistics, redux",3.1,High School,True,Cybersecurity Analyst
+"ui frameworks, webpack, jest, responsive design, project management, security architecture",1.7,PhD,True,Frontend Developer
+"network monitoring, tcpip, cisco, troubleshooting, network security, firewalls, typescript, visual design, nosql, accessibility",9.5,PhD,True,Network Engineer
+"python, databases, rest apis, visual design, dashboards",9.4,Master,False,Network Engineer
+"html, css, javascript, accessibility, typescript, redux, browser compatibility, agile, css",0.6,Bachelor,False,Frontend Developer
+"object-oriented programming, microservices, java, agile, git, data structures, python, javascript",3.7,High School,False,Software Engineer
+"linux, monitoring, infrastructure as code, kubernetes, lan, nosql, visual design",4.5,High School,True,DevOps Engineer
+"security, infrastructure as code, azure, jenkins, aws, networking, switching, dhcp",2.8,Master,False,DevOps Engineer
+"databases, javascript, object-oriented programming, testing, agile, c++, cloud computing, analytics, tableau",7.4,PhD,False,Software Engineer
+"sass, react, jest, figma, ruby, routing",8.3,Master,True,Frontend Developer
+"data visualization, pandas, scikit-learn, r, python, numpy, css",0.9,PhD,True,Data Scientist
+"communication, project management, leadership, forecasting, data visualization",10.5,PhD,False,Product Manager
+"react, redux, vue, webpack, angular, ui frameworks, javascript, agile, wireframing, vpn",3.4,PhD,False,Frontend Developer
+"troubleshooting, lan, tcpip, accessibility, css",4.2,Bachelor,False,Network Engineer
+"numpy, tensorflow, a/b testing, pytorch, data visualization, docker, switching, interaction design, subnetting",14.9,High School,False,Data Scientist
+"routing, lan, network security, subnetting, dns, tcpip, caching",0.5,Bachelor,True,Network Engineer
+"java, git, python, c++, communication, visual design",4.2,Master,False,Software Engineer
+"statistics, deep learning, data visualization, hypothesis testing, accessibility, shell scripting, algorithms",6.7,Master,True,Data Scientist
+"accessibility, prototyping, user flows, accessibility, aws, microservices",12.5,Master,False,UX Designer
+"security compliance, siem, cryptography, risk management, security auditing, security architecture, vulnerability assessment, object-oriented programming",0.4,High School,True,Cybersecurity Analyst
+"css, typescript, responsive design, browser compatibility, html, vue, javascript, pandas, hypothesis testing, dhcp",14.2,High School,True,UX Designer
+"scrum, agile, market research, a/b testing, leadership, user stories, browser compatibility, r",4.7,Master,False,Product Manager
+"microservices, sql, python, vulnerability assessment",14.8,Master,True,Backend Developer
+"network security, firewalls, lan, troubleshooting, accessibility",2.9,Master,True,Network Engineer
+"angular, webpack, sass, linux, prototyping, visual design, object-oriented programming",1.0,Master,True,Frontend Developer
+"r, business intelligence, reporting, data modeling, data cleaning, security compliance, sql, cryptography",3.5,Master,False,Data Analyst
+"python, ci/cd, terraform, tcpip, product strategy",1.0,High School,False,DevOps Engineer
+"browser compatibility, react, webpack, sass, javascript, css, shell scripting, user research, object-oriented programming, php",9.4,High School,False,Frontend Developer
+"business intelligence, r, data cleaning, scrum",3.3,Bachelor,True,Data Analyst
+"user stories, market research, competitive analysis, presentation skills, analytics, ethical hacking",8.0,Master,True,Product Manager
+"webpack, html, browser compatibility, jest, responsive design, business intelligence, r, php",13.6,High School,True,Frontend Developer
+"html, css, javascript, angular, testing, dashboards, microservices, r",2.4,PhD,False,Frontend Developer
+"javascript, jest, webpack, browser compatibility, data modeling",3.2,Master,True,Frontend Developer
+"business intelligence, data mining, excel, data modeling, power bi, data cleaning, dashboards, user flows, incident response, dns",9.6,PhD,True,Data Analyst
+"competitive analysis, a/b testing, analytics, communication, market research, leadership, scrum, wan, vue, user flows, siem",0.6,PhD,True,Product Manager
+"r, hypothesis testing, big data, data visualization, pytorch, deep learning, lan, python, ruby, leadership",2.7,Bachelor,True,Data Scientist
+"security compliance, siem, firewall, penetration testing, security architecture, cryptography, ruby, pandas",8.8,Bachelor,False,Cybersecurity Analyst
+"algorithms, java, databases, debugging, api development, ansible",0.4,PhD,False,Software Engineer
+"deep learning, hypothesis testing, r, data visualization, pytorch, network monitoring",9.8,PhD,False,Data Scientist
+"data modeling, power bi, data cleaning, forecasting, data visualization, tableau, algorithms, css, wan, accessibility",9.7,PhD,True,Data Analyst
+"rest apis, nosql, node.js, databases, golang, authentication, network security",7.6,High School,False,Backend Developer
+"cloud computing, c++, agile, python, pytorch, network security",5.9,Bachelor,True,Software Engineer
+"object-oriented programming, javascript, python, api development, databases, sketch, infrastructure as code, user research, stakeholder management",9.3,PhD,True,Software Engineer
+"roadmapping, leadership, competitive analysis, scrum, product strategy, stakeholder management, networking, microservices, css",14.9,High School,True,Product Manager
+"scrum, jira, presentation skills, project management, stakeholder management, user research, power bi, dhcp, ethical hacking",8.3,PhD,True,Product Manager
+"sketch, information architecture, prototyping, accessibility, design thinking, figma, user flows, sql, r, competitive analysis, routing",10.4,Bachelor,True,UX Designer
+"leadership, analytics, jira, user stories, scrum, presentation skills, business intelligence, reporting",0.8,Bachelor,False,Product Manager
+"statistics, r, forecasting, tableau, python, user flows, testing, subnetting, responsive design",1.7,Master,False,Data Analyst
+"python, data mining, forecasting, excel, reporting, r, visual design, routing, switching, security",6.4,Master,False,Data Analyst
+"machine learning, r, python, pytorch, a/b testing, sql, docker, python, figma",10.7,Master,False,Data Scientist
+"user research, prototyping, visual design, html, adobe xd, ruby",11.2,High School,True,UX Designer
+"risk management, penetration testing, incident response, security compliance, sql",9.2,Bachelor,True,Cybersecurity Analyst
+"html, angular, sass, react, vue, redux, firewall, numpy, ci/cd",10.1,Master,False,Frontend Developer
+"dns, vpn, subnetting, cisco, switching, network monitoring, dhcp, sass, presentation skills, docker, networking",1.0,Bachelor,True,Network Engineer
+"testing, debugging, api development, git, redux",10.0,Bachelor,False,Software Engineer
+"c++, cloud computing, algorithms, databases, testing, data mining, user research, design thinking, analytics",0.5,High School,True,Software Engineer
+"ansible, docker, azure, terraform, adobe xd, a/b testing, cloud computing",0.1,High School,True,DevOps Engineer
+"sql, python, tensorflow, data visualization, big data, statistics, pytorch, typescript, html, switching",3.1,Bachelor,False,Data Scientist
+"a/b testing, jira, analytics, accessibility, design thinking, html",0.2,PhD,False,Product Manager
+"network security, wan, troubleshooting, tcpip, lan, ci/cd",1.1,Master,True,Network Engineer
+"r, sql, excel, security compliance, api development, microservices, switching",9.8,Bachelor,True,Data Analyst
+"monitoring, security, kubernetes, aws, terraform, shell scripting, ansible, cisco, a/b testing, wireframing",8.3,Bachelor,False,DevOps Engineer
+"security, ethical hacking, siem, security architecture, incident response, threat intelligence, object-oriented programming",10.0,High School,False,Cybersecurity Analyst
+"leadership, roadmapping, communication, user stories, switching",0.3,PhD,False,Product Manager
+"python, r, dashboards, reporting, dhcp",2.0,PhD,False,Data Analyst
+"security, security architecture, firewall, agile, redux, php, c#",4.6,Master,False,Cybersecurity Analyst
+"data cleaning, reporting, tableau, project management",10.9,Bachelor,True,Data Analyst
+"c#, sql, nosql, network monitoring",0.5,High School,True,Backend Developer
+"angular, browser compatibility, webpack, css, redux, penetration testing, statistics",14.1,PhD,True,Frontend Developer
+"python, deep learning, statistics, a/b testing",3.3,Master,False,Data Scientist
+"typescript, accessibility, ui frameworks, css, databases, dashboards, security",3.3,Bachelor,False,Frontend Developer
+"html, wireframing, design thinking, usability testing, ansible",1.5,PhD,True,UX Designer
+"security, python, php, excel, data mining, testing",6.0,PhD,False,Backend Developer
+"testing, api development, git, debugging, databases, data cleaning, product strategy",8.1,Master,True,Software Engineer
+"data visualization, sql, statistics, routing, accessibility",10.0,Bachelor,True,Data Scientist
+"cryptography, incident response, threat intelligence, vulnerability assessment, security compliance, ethical hacking, prototyping, sass, databases",3.2,High School,True,Cybersecurity Analyst
+"webpack, browser compatibility, accessibility, vue, debugging",8.8,Master,False,Frontend Developer
+"jest, webpack, css, javascript, networking, scrum",0.7,PhD,True,Frontend Developer
+"data modeling, python, r, adobe xd, databases, accessibility, security auditing",5.8,Bachelor,True,Data Analyst
+"troubleshooting, switching, firewalls, vpn, routing, network security, data modeling, statistics, microservices, data visualization",12.4,High School,False,Network Engineer
+"a/b testing, numpy, machine learning, pytorch, hypothesis testing, tensorflow, python, sql, terraform",1.4,Master,True,Data Scientist
+"sql, excel, tableau, market research, user flows, firewalls",2.4,High School,False,Data Analyst
+"git, microservices, cloud computing, api development, agile, c++, java, subnetting",3.0,Bachelor,False,Software Engineer
+"java, data structures, object-oriented programming, api development, databases, agile, cryptography",8.3,Master,True,Software Engineer
+"r, pandas, machine learning, azure",7.0,Bachelor,True,Data Scientist
+"security compliance, incident response, penetration testing, ethical hacking, risk management, security architecture, security, information architecture, forecasting, scikit-learn",2.3,Master,False,Cybersecurity Analyst
+"statistics, scikit-learn, pytorch, python, deep learning, hypothesis testing, ansible",0.6,Master,False,Data Scientist
+"docker, jenkins, infrastructure as code, kubernetes, shell scripting, reporting, lan, agile",1.6,High School,True,DevOps Engineer
+"incident response, cryptography, vulnerability assessment, firewall, penetration testing, security, security auditing, sketch",7.2,High School,False,Cybersecurity Analyst
+"ethical hacking, security compliance, security architecture, firewall, security, siem, risk management, javascript, html, monitoring",9.2,Bachelor,False,Cybersecurity Analyst
+"analytics, communication, project management, competitive analysis, scrum, product strategy, statistics",1.2,Master,True,Product Manager
+"statistics, excel, forecasting, data visualization, business intelligence, tableau, nosql, stakeholder management",6.4,PhD,False,Data Analyst
+"communication, jira, presentation skills, analytics, python, figma, network security, tableau",4.1,Master,False,Product Manager
+"vulnerability assessment, security, security architecture, risk management, penetration testing, security compliance, visual design, javascript",9.3,High School,True,Data Analyst
+"data modeling, sql, r, statistics, excel, accessibility, design thinking, graphql",9.7,Master,False,Data Analyst
+"testing, microservices, debugging, algorithms, cloud computing, azure, python",4.6,High School,True,Software Engineer
+"object-oriented programming, algorithms, python, data mining",12.7,High School,False,Software Engineer
+"typescript, browser compatibility, html, jest, tensorflow, firewall, dashboards, authentication",6.4,PhD,True,Frontend Developer
+"threat intelligence, security architecture, cryptography, siem, algorithms, statistics, agile",9.9,High School,False,Cybersecurity Analyst
+"typescript, jest, ui frameworks, redux, javascript, css, git, node.js",0.6,PhD,False,Frontend Developer
+"node.js, ruby, graphql, network monitoring",9.7,Bachelor,False,Backend Developer
+"cisco, wan, subnetting, tcpip, firewalls, vpn, react, security, presentation skills, stakeholder management",3.4,High School,False,Network Engineer
+"git, javascript, c++, databases, siem, subnetting, figma, networking",3.1,Bachelor,False,Software Engineer
+"react, jest, javascript, css, python",4.0,Master,True,Frontend Developer
+"html, javascript, react, typescript, webpack, algorithms, api development, presentation skills",2.6,Master,False,Frontend Developer
+"linux, jenkins, networking, aws, shell scripting, azure, kubernetes, sql, nosql, dns, wireframing",5.2,High School,False,DevOps Engineer
+"ansible, infrastructure as code, terraform, security, ci/cd, siem, jest, accessibility, nosql",8.9,PhD,False,DevOps Engineer
+"market research, analytics, user stories, presentation skills, roadmapping, jira, stakeholder management, vulnerability assessment, security, switching",0.1,Master,False,Product Manager
+"java, golang, security, ruby, user stories, statistics, security",1.7,PhD,True,Backend Developer
+"figma, user flows, css, information architecture, visual design, sketch, competitive analysis",9.8,PhD,False,UX Designer
+"a/b testing, product strategy, jira, communication, kubernetes, risk management, api development",0.2,Bachelor,False,DevOps Engineer
+"wan, network monitoring, routing, tcpip, cisco, adobe xd, scrum, excel, data mining",5.0,PhD,False,Network Engineer
+"c#, rest apis, ruby, nosql, security, ui frameworks, excel, aws",1.5,High School,True,Backend Developer
+"vue, css, webpack, accessibility, javascript, sass, java, data structures, prototyping",10.2,Master,True,Frontend Developer
+"stakeholder management, market research, roadmapping, jira, a/b testing, user stories, communication, python, switching, pytorch, graphql",8.9,Bachelor,False,Product Manager
+"data visualization, data mining, data cleaning, statistics, excel, forecasting, dashboards, deep learning, dhcp, cloud computing",13.5,PhD,True,Data Analyst
+"interaction design, sketch, usability testing, figma, user stories, security",3.0,Master,False,UX Designer
+"microservices, databases, python, authentication, golang, ruby, security",1.7,PhD,False,Backend Developer
+"agile, testing, object-oriented programming, rest apis, accessibility",10.4,Bachelor,False,Software Engineer
+"html, accessibility, design thinking, user research, usability testing, security, css, microservices",5.7,High School,False,UX Designer
+"r, business intelligence, sql, python, tableau, data cleaning, networking",3.8,PhD,True,Data Analyst
+"dashboards, forecasting, tableau, reporting, r, docker, competitive analysis, numpy",3.6,PhD,True,Data Analyst
+"c++, testing, data structures, algorithms, javascript, caching, jest, user flows, node.js",13.5,High School,False,Software Engineer
+"javascript, vue, accessibility, html, jest, responsive design, statistics",2.8,High School,True,Frontend Developer
+"browser compatibility, responsive design, sass, react, usability testing, shell scripting",8.9,Bachelor,True,Frontend Developer
+"risk management, security, vulnerability assessment, firewall, ethical hacking, penetration testing, webpack, jenkins, responsive design",6.2,Bachelor,True,Cybersecurity Analyst
+"data visualization, statistics, data cleaning, data mining, r, tableau, data modeling, kubernetes, troubleshooting, browser compatibility, api development",6.1,Bachelor,True,Data Analyst
+"html, wireframing, user flows, user research, sql, r, troubleshooting, siem",8.1,Master,False,UX Designer
+"azure, networking, infrastructure as code, ci/cd, user flows, analytics",3.8,Master,False,DevOps Engineer
+"scrum, jira, a/b testing, analytics, data modeling, authentication, microservices, monitoring",9.1,Master,True,Product Manager
+"adobe xd, user flows, wireframing, cloud computing",14.5,Master,True,UX Designer
+"networking, infrastructure as code, security, python, aws, jenkins, terraform, lan, firewalls",9.5,Master,False,DevOps Engineer
+"network monitoring, vpn, network security, firewalls, switching, subnetting, cisco, wireframing, data visualization, browser compatibility",6.0,Master,False,Network Engineer
+"networking, vpn, lan, cisco, debugging",10.9,PhD,False,Network Engineer
+"data structures, testing, git, javascript, deep learning, big data, tensorflow, communication",8.4,Master,True,Software Engineer
+"dashboards, reporting, data modeling, statistics, r, python, c#, risk management",2.0,High School,True,Data Analyst
+"algorithms, debugging, c++, agile, microservices, cloud computing, data structures, data mining",1.2,Bachelor,False,Software Engineer
+"vue, typescript, angular, css, docker",7.1,PhD,True,Frontend Developer
+"java, caching, security, ruby, network monitoring, statistics, html",9.4,High School,False,DevOps Engineer
+"networking, shell scripting, ansible, monitoring, kubernetes, react",2.3,High School,False,DevOps Engineer
+"troubleshooting, cisco, switching, wan, dns, product strategy, api development, pytorch",2.5,PhD,True,Network Engineer
+"node.js, graphql, authentication, ruby, caching, rest apis, python, deep learning, security",8.1,Master,False,Backend Developer
+"analytics, roadmapping, a/b testing, presentation skills, market research, stakeholder management, webpack, security, vpn",9.2,High School,True,Product Manager
+"business intelligence, forecasting, reporting, php, roadmapping, machine learning, caching",9.1,PhD,False,Data Analyst

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Role Predictor</title>
+    <style>
+        .skill-checkboxes { column-count: 3; margin: 20px 0; }
+        .form-section { margin-bottom: 25px; }
+        label { font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Find Your Ideal Job Role</h1>
+    
+    <form method="post">
+        {% csrf_token %}
+        
+        <div class="form-section">
+            <h3>Technical Skills:</h3>
+            <div class="skill-checkboxes">
+                {% for skill in form.skills %}
+                    <div class="checkbox">
+                        {{ skill.tag }} <label>{{ skill.choice_label }}</label>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="form-section">
+            <h3>Experience & Education:</h3>
+            <p>
+                {{ form.years_experience.label_tag }}
+                {{ form.years_experience }}
+            </p>
+            
+            <p>
+                {{ form.education.label_tag }}
+                {% for edu in form.education %}
+                    <div class="radio">
+                        {{ edu.tag }} <label>{{ edu.choice_label }}</label>
+                    </div>
+                {% endfor %}
+            </p>
+        </div>
+
+        <div class="form-section">
+            <label>
+                {{ form.has_certifications }}
+                {{ form.has_certifications.label }}
+            </label>
+        </div>
+
+        <button type="submit">Predict My Role</button>
+    </form>
+
+    {% if result %}
+    <div class="result-section">
+        <h2>Your Predicted Role:</h2>
+        <h3 style="color: #2c3e50;">{{ result }}</h3>
+    </div>
+    {% endif %}
+</body>
+</html>
