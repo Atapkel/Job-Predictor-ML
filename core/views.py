@@ -20,6 +20,7 @@ def predict_role_view(request):
                 education=education,
                 has_certifications=certifications
             )
+            print(f"users predicted job role: {result}")
     else:
         form = JobPredictionForm()
     
